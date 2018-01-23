@@ -1,0 +1,1212 @@
+Model.Year	Mfr	Division	Car.line	Class	CityMPG	HighwayMPG	CombinedMPG	Displacement	Cylinders	Transmission	Gears	CityCO2	HwyCO2	CombCO2	Sample
+2016	FCA US LLC	Alfa Romeo	4C	Two Seaters	24	34	28	1.8	4	Auto(AM6)	6	365	259	317	No
+2016	aston martin	Aston Martin Lagonda Ltd	V12 Vantage S	Two Seaters	12	18	14	6	12	Auto(AM7)	7	742	488	628	No
+2016	aston martin	Aston Martin Lagonda Ltd	V8 Vantage	Two Seaters	14	21	16	4.7	8	Auto(AM7)	7	655	426	552	No
+2016	aston martin	Aston Martin Lagonda Ltd	V8 Vantage	Two Seaters	13	19	15	4.7	8	Manual(M6)	6	681	461	582	No
+2016	aston martin	Aston Martin Lagonda Ltd	V8 Vantage S	Two Seaters	14	21	16	4.7	8	Auto(AM7)	7	655	426	552	No
+2016	aston martin	Aston Martin Lagonda Ltd	V8 Vantage S	Two Seaters	13	19	15	4.7	8	Manual(M6)	6	681	461	582	No
+2016	aston martin	Aston Martin Lagonda Ltd	Vantage GT	Two Seaters	14	21	16	4.7	8	Auto(AM7)	7	655	426	552	Yes
+2016	aston martin	Aston Martin Lagonda Ltd	Vantage GT	Two Seaters	13	19	15	4.7	8	Manual(M6)	6	681	461	582	No
+2016	Volkswagen Group of	Audi	TT Roadster quattro	Two Seaters	23	30	26	2	4	Auto(AM-S6)	6	373	290	336	No
+2016	BMW	BMW	M4 GTS	Two Seaters	16	23	19	3	6	Auto(AM-S7)	7	551	388	478	No
+2016	BMW	BMW	Z4 sDrive28i	Two Seaters	22	33	26	2	4	Auto(S8)	8	403	266	341	No
+2016	BMW	BMW	Z4 sDrive28i	Two Seaters	22	34	26	2	4	Manual(M6)	6	400	259	337	No
+2016	BMW	BMW	Z4 sDrive35i	Two Seaters	17	24	20	3	6	Auto(AM-S7)	7	518	376	454	No
+2016	BMW	BMW	Z4 sDrive35is	Two Seaters	17	24	20	3	6	Auto(AM-S7)	7	518	376	454	No
+2016	General Motors	Chevrolet	CORVETTE	Two Seaters	13	23	16	6.2	8	Auto(S8)	8	665	385	539	No
+2016	General Motors	Chevrolet	CORVETTE	Two Seaters	16	29	20	6.2	8	Auto(S8)	8	554	306	442	No
+2016	General Motors	Chevrolet	CORVETTE	Two Seaters	15	22	18	6.2	8	Manual(M7)	7	580	402	491	No
+2016	General Motors	Chevrolet	CORVETTE	Two Seaters	17	29	21	6.2	8	Manual(M7)	7	517	310	424	No
+2016	FCA US LLC	Dodge	Viper SRT	Two Seaters	12	21	15	8.4	10	Manual(M6)	6	714	415	579	No
+2016	Ferrari	Ferrari North America, Inc.	488 GTB	Two Seaters	15	22	18	3.9	8	Auto(AM7)	7	582	404	502	No
+2016	Ferrari	Ferrari North America, Inc.	488 GTB	Two Seaters	16	22	18	3.9	8	Auto(AM7)	7	572	406	497	No
+2016	Ferrari	Ferrari North America, Inc.	488 Spider	Two Seaters	15	22	18	3.9	8	Auto(AM7)	7	582	404	502	No
+2016	Ferrari	Ferrari North America, Inc.	488 Spider	Two Seaters	16	22	18	3.9	8	Auto(AM7)	7	572	406	497	No
+2016	Ferrari	Ferrari North America, Inc.	F12	Two Seaters	11	16	13	6.3	12	Auto(AM7)	7	776	561	679	No
+2016	Ferrari	Ferrari North America, Inc.	F12	Two Seaters	12	16	13	6.3	12	Auto(AM7)	7	760	557	669	No
+2016	Ferrari	Ferrari North America, Inc.	F12 tdf	Two Seaters	12	17	13	6.3	12	Auto(AM7)	7	767	527	659	No
+2016	Ferrari	Ferrari North America, Inc.	F12 tdf	Two Seaters	11	15	12	6.3	12	Auto(AM7)	7	814	606	721	No
+2016	Ferrari	Ferrari North America, Inc.	F60 America	Two Seaters	12	15	13	6.3	12	Auto(AM7)	7	777	598	697	No
+2016	Ferrari	Ferrari North America, Inc.	F60 America	Two Seaters	11	15	13	6.3	12	Auto(AM7)	7	801	601	711	No
+2016	Honda	Honda	CR-Z	Two Seaters	36	39	37	1.5	4	Auto(AV-S7)	7	247	227	238	No
+2016	Honda	Honda	CR-Z	Two Seaters	31	38	34	1.5	4	Manual(M6)	6	285	232	261	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE Convertible	Two Seaters	19	28	22	3	6	Auto(S8)	8	457	322	396	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE Convertible Manual	Two Seaters	16	24	19	3	6	Manual(M6)	6	564	368	476	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE Coupe	Two Seaters	19	28	22	3	6	Auto(S8)	8	457	322	396	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE Coupe Manual	Two Seaters	16	24	19	3	6	Manual(M6)	6	564	368	476	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE R AWD Convertible	Two Seaters	15	23	18	5	8	Auto(S8)	8	591	390	500	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE R AWD Coupe	Two Seaters	15	23	18	5	8	Auto(S8)	8	591	390	500	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE R Convertible	Two Seaters	16	23	18	5	8	Auto(S8)	8	570	386	487	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S AWD Convertible	Two Seaters	18	26	21	3	6	Auto(S8)	8	491	344	425	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S AWD Coupe	Two Seaters	18	26	21	3	6	Auto(S8)	8	491	344	425	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S Convertible	Two Seaters	19	27	22	3	6	Auto(S8)	8	472	330	408	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S Convertible Manual	Two Seaters	15	24	18	3	6	Manual(M6)	6	576	374	486	Yes
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S Coupe	Two Seaters	19	27	22	3	6	Auto(S8)	8	472	330	408	No
+2016	Jaguar Land Rover L	Jaguar	F-TYPE S Coupe Manual	Two Seaters	15	24	18	3	6	Manual(M6)	6	576	374	486	No
+2016	Volkswagen Group of	Lamborghini	Aventador Coupe	Two Seaters	11	18	13	6.5	12	Auto(AM-S7)	7	836	481	676	No
+2016	Volkswagen Group of	Lamborghini	Aventador Roadster	Two Seaters	10	17	12	6.5	12	Auto(AM-S7)	7	887	532	727	No
+2016	Volkswagen Group of	Lamborghini	Huracan	Two Seaters	14	21	17	5.2	10	Auto(AM-S7)	7	617	429	532	No
+2016	Volkswagen Group of	Lamborghini	Huracan Spyder	Two Seaters	14	20	16	5.2	10	Auto(AM-S7)	7	634	442	547	No
+2016	MAZDA	Mazda	MX-5	Two Seaters	27	36	30	2	4	Auto(S6)	6	332	246	295	No
+2016	MAZDA	Mazda	MX-5	Two Seaters	27	34	30	2	4	Manual(M6)	6	331	260	295	No
+2016	McLaren Automotive	Mclaren	570S Coupe	Two Seaters	16	23	19	3.8	8	Auto(A7)	7	526	425	481	No
+2016	McLaren Automotive	Mclaren	650S Coupe	Two Seaters	16	22	18	3.8	8	Auto(A7)	7	556	429	499	No
+2016	McLaren Automotive	Mclaren	650S Spider	Two Seaters	16	22	18	3.8	8	Auto(A7)	7	556	429	499	No
+2016	McLaren Automotive	Mclaren	675LT Coupe	Two Seaters	16	22	18	3.8	8	Auto(A7)	7	556	429	499	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GT S	Two Seaters	16	22	18	4	8	Auto(AM7)	7	550	409	487	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG SL 63	Two Seaters	16	25	19	5.5	8	Auto(A7)	7	557	360	468	Yes
+2016	Mercedes-Benz	Mercedes-Benz	AMG SL 65	Two Seaters	14	21	17	6	12	Auto(A7)	7	633	423	539	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG SLK 55	Two Seaters	19	28	22	5.5	8	Auto(A7)	7	468	320	401	No
+2016	Mercedes-Benz	Mercedes-Benz	SL 400	Two Seaters	20	27	23	3	6	Auto(A7)	7	444	327	392	No
+2016	Mercedes-Benz	Mercedes-Benz	SL 550	Two Seaters	16	24	19	4.7	8	Auto(A7)	7	548	362	465	No
+2016	Mercedes-Benz	Mercedes-Benz	SLK 300	Two Seaters	25	32	28	2	4	Auto(A9)	9	360	273	321	No
+2016	Mercedes-Benz	Mercedes-Benz	SLK 350	Two Seaters	21	29	24	3.5	6	Auto(A7)	7	419	307	368	No
+2016	Mercedes-Benz	Mercedes-Benz	Smart fortwo (COUPE)	Two Seaters	34	39	36	0.9	3	Auto(AM6)	6	264	224	246	No
+2016	Mercedes-Benz	Mercedes-Benz	Smart fortwo (COUPE)	Two Seaters	32	39	35	0.9	3	Manual(M5)	5	280	224	255	No
+2016	Nissan	Nissan	370Z	Two Seaters	19	26	21	3.7	6	Auto(S7)	7	476	344	416	No
+2016	Nissan	Nissan	370Z	Two Seaters	18	26	21	3.7	6	Manual(M6)	6	500	348	432	No
+2016	Nissan	Nissan	370Z Roadster	Two Seaters	18	25	21	3.7	6	Auto(S7)	7	492	361	433	No
+2016	Nissan	Nissan	370Z Roadster	Two Seaters	17	24	20	3.7	6	Manual(M6)	6	512	364	445	No
+2016	Pagani Automobili S	Pagani Automobili S.P.A.	Huayra Coupe	Two Seaters	11	17	13	6	12	Auto(AM7)	7	798	516	671	No
+2016	Porsche	Porsche	911 GT3	Two Seaters	15	20	17	3.8	6	Auto(AM-S7)	7	606	434	529	No
+2016	Porsche	Porsche	911 GT3RS	Two Seaters	14	20	16	4	6	Auto(AM-S7)	7	611	446	537	No
+2016	Porsche	Porsche	Boxster	Two Seaters	22	32	26	2.7	6	Auto(AM-S7)	7	406	279	349	No
+2016	Porsche	Porsche	Boxster	Two Seaters	20	30	24	2.7	6	Manual(M6)	6	434	301	374	No
+2016	Porsche	Porsche	Boxster GTS	Two Seaters	22	31	25	3.4	6	Auto(AM-S7)	7	412	289	357	Yes
+2016	Porsche	Porsche	Boxster GTS	Two Seaters	19	26	22	3.4	6	Manual(M6)	6	458	334	402	No
+2016	Porsche	Porsche	Boxster S	Two Seaters	21	30	24	3.4	6	Auto(AM-S7)	7	428	298	370	No
+2016	Porsche	Porsche	Boxster S	Two Seaters	20	28	23	3.4	6	Manual(M6)	6	453	324	395	No
+2016	Porsche	Porsche	Boxster Spyder	Two Seaters	18	24	20	3.8	6	Manual(M6)	6	491	372	437	No
+2016	Porsche	Porsche	Cayman	Two Seaters	22	32	26	2.7	6	Auto(AM-S7)	7	406	279	349	No
+2016	Porsche	Porsche	Cayman	Two Seaters	20	30	24	2.7	6	Manual(M6)	6	434	301	374	No
+2016	Porsche	Porsche	Cayman GT4	Two Seaters	18	23	20	3.8	6	Manual(M6)	6	501	378	446	No
+2016	Porsche	Porsche	Cayman GTS	Two Seaters	22	31	25	3.4	6	Auto(AM-S7)	7	412	289	357	No
+2016	Porsche	Porsche	Cayman GTS	Two Seaters	19	26	22	3.4	6	Manual(M6)	6	458	334	402	No
+2016	Porsche	Porsche	Cayman S	Two Seaters	21	30	24	3.4	6	Auto(AM-S7)	7	428	298	370	No
+2016	Porsche	Porsche	Cayman S	Two Seaters	20	28	23	3.4	6	Manual(M6)	6	453	324	395	No
+2016	aston martin	Aston Martin Lagonda Ltd	DB9	Minicompact Cars	13	19	15	5.9	12	Auto(S6)	6	679	475	587	No
+2016	aston martin	Aston Martin Lagonda Ltd	Vanquish	Minicompact Cars	13	21	16	6	12	Auto(S8)	8	662	428	557	No
+2016	Ferrari	Ferrari North America, Inc.	California T	Minicompact Cars	16	23	19	3.9	8	Auto(AM7)	7	554	387	479	No
+2016	Ferrari	Ferrari North America, Inc.	California T	Minicompact Cars	16	23	18	3.9	8	Auto(AM7)	7	570	388	488	No
+2016	FCA US LLC	Fiat	500	Minicompact Cars	24	32	27	1.4	4	Auto(A6)	6	363	272	322	No
+2016	FCA US LLC	Fiat	500	Minicompact Cars	27	34	30	1.4	4	Auto(A6)	6	325	259	295	No
+2016	FCA US LLC	Fiat	500	Minicompact Cars	28	34	30	1.4	4	Manual(M5)	5	321	263	295	No
+2016	FCA US LLC	Fiat	500	Minicompact Cars	31	40	34	1.4	4	Manual(M5)	5	288	223	259	No
+2016	FCA US LLC	Fiat	500 Abarth	Minicompact Cars	24	32	27	1.4	4	Auto(A6)	6	363	272	322	No
+2016	FCA US LLC	Fiat	500 Abarth	Minicompact Cars	28	34	30	1.4	4	Manual(M5)	5	321	263	295	No
+2016	BMW	Mini	Mini Cooper Convertible	Minicompact Cars	27	37	31	1.5	4	Auto(S6)	6	328	242	289	No
+2016	BMW	Mini	Mini Cooper Convertible	Minicompact Cars	27	38	31	1.5	4	Manual(M6)	6	328	236	286	No
+2016	BMW	Mini	Mini Cooper S Convertible	Minicompact Cars	25	34	29	2	4	Auto(S6)	6	349	264	311	No
+2016	BMW	Mini	Mini Cooper S Convertible	Minicompact Cars	23	33	27	2	4	Manual(M6)	6	387	267	333	No
+2016	Porsche	Porsche	911 Carrera	Minicompact Cars	20	28	23	3.4	6	Auto(AM-S7)	7	437	317	383	No
+2016	Porsche	Porsche	911 Carrera	Minicompact Cars	19	27	22	3.4	6	Manual(M7)	7	463	325	401	No
+2016	Porsche	Porsche	911 Carrera 4	Minicompact Cars	20	28	23	3.4	6	Auto(AM-S7)	7	440	322	387	No
+2016	Porsche	Porsche	911 Carrera 4	Minicompact Cars	19	27	22	3.4	6	Manual(M7)	7	466	329	404	No
+2016	Porsche	Porsche	911 Carrera 4 Cabriolet	Minicompact Cars	20	27	22	3.4	6	Auto(AM-S7)	7	449	331	396	Yes
+2016	Porsche	Porsche	911 Carrera 4 Cabriolet	Minicompact Cars	19	26	22	3.4	6	Manual(M7)	7	473	340	413	No
+2016	Porsche	Porsche	911 Carrera 4 GTS	Minicompact Cars	19	26	21	3.8	6	Auto(AM-S7)	7	478	347	419	No
+2016	Porsche	Porsche	911 Carrera 4 GTS	Minicompact Cars	18	26	21	3.8	6	Manual(M7)	7	492	347	427	No
+2016	Porsche	Porsche	911 Carrera 4 GTS Cabriolet	Minicompact Cars	18	25	21	3.8	6	Auto(AM-S7)	7	495	354	431	No
+2016	Porsche	Porsche	911 Carrera 4 GTS Cabriolet	Minicompact Cars	18	25	20	3.8	6	Manual(M7)	7	506	353	437	No
+2016	Porsche	Porsche	911 Carrera 4S	Minicompact Cars	19	26	22	3.8	6	Auto(AM-S7)	7	460	336	404	No
+2016	Porsche	Porsche	911 Carrera 4S	Minicompact Cars	19	26	21	3.8	6	Manual(M7)	7	477	338	415	No
+2016	Porsche	Porsche	911 Carrera 4S Cabriolet	Minicompact Cars	19	26	21	3.8	6	Auto(AM-S7)	7	473	343	414	No
+2016	Porsche	Porsche	911 Carrera 4S Cabriolet	Minicompact Cars	18	26	21	3.8	6	Manual(M7)	7	485	346	422	No
+2016	Porsche	Porsche	911 Carrera Cabriolet	Minicompact Cars	21	28	23	3.4	6	Auto(AM-S7)	7	433	315	380	No
+2016	Porsche	Porsche	911 Carrera Cabriolet	Minicompact Cars	19	27	22	3.4	6	Manual(M7)	7	465	328	404	No
+2016	Porsche	Porsche	911 Carrera GTS	Minicompact Cars	19	26	21	3.8	6	Auto(AM-S7)	7	479	341	417	No
+2016	Porsche	Porsche	911 Carrera GTS	Minicompact Cars	18	26	21	3.8	6	Manual(M7)	7	489	341	422	No
+2016	Porsche	Porsche	911 Carrera GTS Cabriolet	Minicompact Cars	19	26	21	3.8	6	Auto(AM-S7)	7	478	347	419	No
+2016	Porsche	Porsche	911 Carrera GTS Cabriolet	Minicompact Cars	18	25	20	3.8	6	Manual(M7)	7	506	353	437	No
+2016	Porsche	Porsche	911 Carrera S	Minicompact Cars	20	27	23	3.8	6	Auto(AM-S7)	7	449	328	395	No
+2016	Porsche	Porsche	911 Carrera S	Minicompact Cars	19	27	22	3.8	6	Manual(M7)	7	469	328	406	Yes
+2016	Porsche	Porsche	911 Carrera S Cabriolet	Minicompact Cars	19	27	22	3.8	6	Auto(AM-S7)	7	461	330	402	No
+2016	Porsche	Porsche	911 Carrera S Cabriolet	Minicompact Cars	19	27	22	3.8	6	Manual(M7)	7	472	335	410	No
+2016	Porsche	Porsche	911 R	Minicompact Cars	14	20	16	4	6	Manual(M6)	6	635	434	545	No
+2016	Porsche	Porsche	911 Targa 4	Minicompact Cars	19	26	22	3.4	6	Auto(AM-S7)	7	464	337	407	No
+2016	Porsche	Porsche	911 Targa 4	Minicompact Cars	18	26	21	3.4	6	Manual(M7)	7	485	341	420	No
+2016	Porsche	Porsche	911 Targa 4 GTS	Minicompact Cars	18	25	21	3.8	6	Auto(AM-S7)	7	477	346	418	No
+2016	Porsche	Porsche	911 Targa 4 GTS	Minicompact Cars	18	26	21	3.8	6	Manual(M7)	7	496	349	430	No
+2016	Porsche	Porsche	911 Targa 4S	Minicompact Cars	18	25	21	3.8	6	Auto(AM-S7)	7	477	346	418	No
+2016	Porsche	Porsche	911 Targa 4S	Minicompact Cars	18	26	21	3.8	6	Manual(M7)	7	496	349	430	No
+2016	Porsche	Porsche	911 Turbo	Minicompact Cars	17	24	20	3.8	6	Auto(AM-S7)	7	518	363	448	No
+2016	Porsche	Porsche	911 Turbo Cabriolet	Minicompact Cars	17	24	20	3.8	6	Auto(AM-S7)	7	518	363	448	No
+2016	Porsche	Porsche	911 Turbo S	Minicompact Cars	17	24	20	3.8	6	Auto(AM-S7)	7	518	363	448	No
+2016	Porsche	Porsche	911 Turbo S Cabriolet	Minicompact Cars	17	24	20	3.8	6	Auto(AM-S7)	7	518	363	448	No
+2016	Toyota	SCION	FR-S	Minicompact Cars	25	34	28	2	4	Auto(S6)	6	361	264	317	No
+2016	Toyota	SCION	FR-S	Minicompact Cars	22	30	25	2	4	Manual(M6)	6	411	297	360	No
+2016	Subaru	Subaru	BRZ	Minicompact Cars	25	34	28	2	4	Auto(S6)	6	361	264	317	No
+2016	Subaru	Subaru	BRZ	Minicompact Cars	22	30	25	2	4	Manual(M6)	6	411	298	360	No
+2016	aston martin	Aston Martin Lagonda Ltd	Rapide S	Subcompact Cars	14	22	17	6	12	Auto(S8)	8	634	412	534	No
+2016	Volkswagen Group of	Audi	A3	Subcompact Cars	23	33	27	1.8	4	Auto(AM-S6)	6	379	267	328	No
+2016	Volkswagen Group of	Audi	A3 Cabriolet	Subcompact Cars	24	35	28	1.8	4	Auto(AM-S6)	6	362	256	314	No
+2016	Volkswagen Group of	Audi	A3 Cabriolet quattro	Subcompact Cars	23	32	26	2	4	Auto(AM-S6)	6	379	280	334	No
+2016	Volkswagen Group of	Audi	A3 quattro	Subcompact Cars	24	33	27	2	4	Auto(AM-S6)	6	366	271	323	No
+2016	Volkswagen Group of	Audi	A5 Cabriolet quattro	Subcompact Cars	21	29	24	2	4	Auto(S8)	8	424	303	370	No
+2016	Volkswagen Group of	Audi	A5 quattro	Subcompact Cars	21	30	25	2	4	Auto(S8)	8	415	295	361	No
+2016	Volkswagen Group of	Audi	A5 quattro	Subcompact Cars	22	32	26	2	4	Manual(M6)	6	397	276	343	No
+2016	Volkswagen Group of	Audi	S3	Subcompact Cars	23	31	26	2	4	Auto(AM-S6)	6	381	289	340	No
+2016	Volkswagen Group of	Audi	S5	Subcompact Cars	18	28	21	3	6	Auto(AM-S7)	7	488	321	413	No
+2016	Volkswagen Group of	Audi	S5	Subcompact Cars	17	26	20	3	6	Manual(M6)	6	519	341	439	No
+2016	Volkswagen Group of	Audi	S5 Cabriolet	Subcompact Cars	18	26	21	3	6	Auto(AM-S7)	7	500	341	428	No
+2016	Volkswagen Group of	Audi	TT Coupe quattro	Subcompact Cars	23	30	26	2	4	Auto(AM-S6)	6	373	290	336	No
+2016	Volkswagen Group of	Audi	TTS Coupe	Subcompact Cars	23	27	25	2	4	Auto(AM-S6)	6	386	323	358	No
+2016	Volkswagen Group of	Bentley	Continental GT Convertible	Subcompact Cars	14	24	17	4	8	Auto(S8)	8	638	370	517	No
+2016	Volkswagen Group of	Bentley	Continental GT Convertible	Subcompact Cars	12	20	15	6	12	Auto(S8)	8	736	443	604	No
+2016	BMW	BMW	228i	Subcompact Cars	23	35	27	2	4	Auto(S8)	8	387	252	327	No
+2016	BMW	BMW	228i	Subcompact Cars	22	34	26	2	4	Manual(M6)	6	400	259	337	No
+2016	BMW	BMW	228i Convertible	Subcompact Cars	23	34	27	2	4	Auto(S8)	8	394	262	334	No
+2016	BMW	BMW	228i xDrive	Subcompact Cars	23	35	27	2	4	Auto(S8)	8	392	258	332	No
+2016	BMW	BMW	228i xDrive Convertible	Subcompact Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	428i Convertible	Subcompact Cars	23	34	27	2	4	Auto(S8)	8	394	262	334	No
+2016	BMW	BMW	428i xDrive Convertible	Subcompact Cars	21	33	25	2	4	Auto(S8)	8	421	270	353	No
+2016	BMW	BMW	435i Convertible	Subcompact Cars	20	31	24	3	6	Auto(S8)	8	446	289	375	No
+2016	BMW	BMW	435i xDrive Convertible	Subcompact Cars	20	29	23	3	6	Auto(S8)	8	448	301	382	No
+2016	BMW	BMW	640i Convertible	Subcompact Cars	20	31	24	3	6	Auto(S8)	8	446	289	375	No
+2016	BMW	BMW	640i Coupe	Subcompact Cars	20	31	24	3	6	Auto(S8)	8	437	288	370	No
+2016	BMW	BMW	640i xDrive Convertible	Subcompact Cars	20	29	23	3	6	Auto(S8)	8	448	301	382	No
+2016	BMW	BMW	640i xDrive Coupe	Subcompact Cars	20	29	23	3	6	Auto(S8)	8	448	301	382	No
+2016	BMW	BMW	650i Convertible	Subcompact Cars	17	25	20	4.4	8	Auto(S8)	8	532	354	452	No
+2016	BMW	BMW	650i Coupe	Subcompact Cars	17	25	20	4.4	8	Auto(S8)	8	532	354	452	No
+2016	BMW	BMW	650i xDrive Convertible	Subcompact Cars	15	24	18	4.4	8	Auto(S8)	8	578	369	484	No
+2016	BMW	BMW	650i xDrive Coupe	Subcompact Cars	16	25	19	4.4	8	Auto(S8)	8	545	362	463	No
+2016	BMW	BMW	M2	Subcompact Cars	20	27	23	3	6	Auto(AM-S7)	7	443	331	393	No
+2016	BMW	BMW	M2	Subcompact Cars	18	26	21	3	6	Manual(M6)	6	497	345	429	No
+2016	BMW	BMW	M235i	Subcompact Cars	20	31	24	3	6	Auto(S8)	8	437	288	370	No
+2016	BMW	BMW	M235i	Subcompact Cars	19	28	22	3	6	Manual(M6)	6	453	323	395	No
+2016	BMW	BMW	M235i Convertible	Subcompact Cars	20	31	24	3	6	Auto(S8)	8	437	288	370	No
+2016	BMW	BMW	M235i Convertible	Subcompact Cars	19	26	22	3	6	Manual(M6)	6	466	338	408	No
+2016	BMW	BMW	M235i xDrive	Subcompact Cars	20	30	23	3	6	Auto(S8)	8	439	294	374	No
+2016	BMW	BMW	M235i xDrive Convertible	Subcompact Cars	20	30	23	3	6	Auto(S8)	8	439	294	374	No
+2016	BMW	BMW	M4 Convertible	Subcompact Cars	17	24	19	3	6	Auto(AM-S7)	7	532	368	458	No
+2016	BMW	BMW	M4 Convertible	Subcompact Cars	17	26	20	3	6	Manual(M6)	6	521	340	439	No
+2016	BMW	BMW	M6 Convertible	Subcompact Cars	14	20	16	4.4	8	Auto(AM-S7)	7	652	435	554	No
+2016	BMW	BMW	M6 Convertible	Subcompact Cars	15	22	17	4.4	8	Manual(M6)	6	605	409	517	No
+2016	BMW	BMW	M6 Coupe	Subcompact Cars	14	20	16	4.4	8	Auto(AM-S7)	7	652	435	554	No
+2016	BMW	BMW	M6 Coupe	Subcompact Cars	15	22	17	4.4	8	Manual(M6)	6	605	409	517	No
+2016	General Motors	Buick	CASCADA	Subcompact Cars	20	27	23	1.6	4	Auto(S6)	6	443	331	393	No
+2016	General Motors	Chevrolet	SPARK	Subcompact Cars	31	41	35	1.4	4	Auto(AV)	1	284	216	253	No
+2016	General Motors	Chevrolet	SPARK	Subcompact Cars	30	41	34	1.4	4	Manual(M5)	5	295	218	260	Yes
+2016	Ford Motor Company	Ford	Fiesta FWD	Subcompact Cars	27	37	31	1.6	4	Auto(AM-S6)	6	328	242	289	No
+2016	Ford Motor Company	Ford	Fiesta FWD	Subcompact Cars	28	36	31	1.6	4	Manual(M5)	5	322	247	288	No
+2016	Ford Motor Company	Ford	Fiesta SFE FWD	Subcompact Cars	31	43	36	1	3	Manual(M5)	5	280	206	247	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	21	32	25	2.3	4	Auto(S6)	6	414	279	353	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	22	31	25	2.3	4	Manual(M6)	6	401	286	349	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	19	28	22	3.7	6	Auto(S6)	6	478	322	408	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	17	28	21	3.7	6	Manual(M6)	6	514	317	425	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	16	25	19	5	8	Auto(S6)	6	561	358	470	No
+2016	Ford Motor Company	Ford	MUSTANG	Subcompact Cars	15	25	19	5	8	Manual(M6)	6	583	353	480	No
+2016	Ford Motor Company	Ford	MUSTANG CONVERTIBLE	Subcompact Cars	20	29	24	2.3	4	Auto(S6)	6	437	301	376	No
+2016	Ford Motor Company	Ford	MUSTANG CONVERTIBLE	Subcompact Cars	15	24	18	5	8	Auto(S6)	6	580	378	489	No
+2016	Ford Motor Company	Ford	SHELBY GT350 MUSTANG	Subcompact Cars	14	21	16	5.2	8	Manual(M6)	6	641	419	541	No
+2016	Hyundai	Hyundai Motor Company	Genesis Coupe	Subcompact Cars	16	25	19	3.8	6	Auto(S8)	8	536	357	455	No
+2016	Hyundai	Hyundai Motor Company	Genesis Coupe	Subcompact Cars	17	24	19	3.8	6	Manual(M6)	6	532	363	456	No
+2016	Toyota	Lexus	RC 200t	Subcompact Cars	22	32	26	2	4	Auto(S8)	8	400	278	345	No
+2016	Toyota	Lexus	RC 300 AWD	Subcompact Cars	19	26	21	3.5	6	Auto(S6)	6	474	344	415	No
+2016	Toyota	Lexus	RC 350	Subcompact Cars	19	28	22	3.5	6	Auto(S8)	8	459	319	396	No
+2016	Toyota	Lexus	RC 350 AWD	Subcompact Cars	19	26	21	3.5	6	Auto(S6)	6	474	344	415	No
+2016	Toyota	Lexus	RC F	Subcompact Cars	16	25	19	5	8	Auto(S8)	8	552	353	465	No
+2016	Maserati	Maserati	GRANTURISMO	Subcompact Cars	13	21	16	4.7	8	Auto(A6)	6	690	432	574	No
+2016	Maserati	Maserati	GRANTURISMO CONVERTIBLE	Subcompact Cars	13	20	15	4.7	8	Auto(A6)	6	697	436	579	No
+2016	Mercedes-Benz	Mercedes-Benz	E 400 (convertible)	Subcompact Cars	20	29	24	3	6	Auto(A7)	7	433	303	374	No
+2016	Mercedes-Benz	Mercedes-Benz	E 400 (coupe)	Subcompact Cars	20	29	24	3	6	Auto(A7)	7	436	299	375	No
+2016	Mercedes-Benz	Mercedes-Benz	E 400 4MATIC (coupe)	Subcompact Cars	20	28	23	3	6	Auto(A7)	7	442	314	384	Yes
+2016	Mercedes-Benz	Mercedes-Benz	E 550 (convertible)	Subcompact Cars	17	26	20	4.7	8	Auto(A7)	7	519	349	442	No
+2016	Mercedes-Benz	Mercedes-Benz	E 550 (coupe)	Subcompact Cars	18	26	21	4.7	8	Auto(A7)	7	506	338	430	No
+2016	BMW	Mini	MINI COOPER HARDTOP 2 DOOR	Subcompact Cars	27	37	31	1.5	4	Auto(S6)	6	326	240	287	No
+2016	BMW	Mini	MINI COOPER HARDTOP 2 DOOR	Subcompact Cars	28	39	32	1.5	4	Manual(M6)	6	318	226	277	No
+2016	BMW	Mini	MINI COOPER HARDTOP 4 DOOR	Subcompact Cars	27	37	31	1.5	4	Auto(S6)	6	326	240	287	No
+2016	BMW	Mini	MINI COOPER HARDTOP 4 DOOR	Subcompact Cars	29	39	33	1.5	4	Manual(M6)	6	309	226	272	No
+2016	BMW	Mini	Mini Cooper S Hardtop 2 door	Subcompact Cars	26	33	29	2	4	Auto(S6)	6	349	267	312	No
+2016	BMW	Mini	Mini Cooper S Hardtop 2 door	Subcompact Cars	23	33	27	2	4	Manual(M6)	6	379	266	328	No
+2016	BMW	Mini	Mini Cooper S Hardtop 4 door	Subcompact Cars	26	33	29	2	4	Auto(S6)	6	349	267	312	No
+2016	BMW	Mini	Mini Cooper S Hardtop 4 door	Subcompact Cars	23	33	27	2	4	Manual(M6)	6	379	266	328	No
+2016	BMW	Mini	MINI John Cooper Works Hardtop	Subcompact Cars	25	31	28	2	4	Auto(S6)	6	352	283	321	No
+2016	BMW	Mini	MINI John Cooper Works Hardtop	Subcompact Cars	23	31	26	2	4	Manual(M6)	6	390	289	345	No
+2016	Nissan	NISSAN	GT-R	Subcompact Cars	16	22	19	3.8	6	Auto(AM6)	6	537	396	474	No
+2016	Roush	Roush Industries, Inc.	Roush Stage 3 Mustang	Subcompact Cars	13	23	16	5	8	Auto(S6)	6	658	388	537	No
+2016	Roush	Roush Industries, Inc.	Roush Stage 3 Mustang	Subcompact Cars	12	23	16	5	8	Manual(M6)	6	714	385	566	No
+2016	Toyota	Scion	iA	Subcompact Cars	33	42	37	1.5	4	Auto(S6)	6	270	210	243	No
+2016	Toyota	Scion	iA	Subcompact Cars	31	41	35	1.5	4	Manual(M6)	6	286	213	253	No
+2016	Volkswagen Group of	Volkswagen	Beetle Convertible	Subcompact Cars	25	34	28	1.8	4	Auto(S6)	6	360	263	316	No
+2016	Volkswagen Group of	Volkswagen	Beetle Convertible	Subcompact Cars	23	31	26	2	4	Auto(AM-S6)	6	383	288	340	No
+2016	Volkswagen Group of	Volkswagen	Beetle Convertible	Subcompact Cars	23	31	26	2	4	Manual(M6)	6	385	292	343	No
+2016	Volkswagen Group of	Volkswagen	Eos	Subcompact Cars	22	30	25	2	4	Auto(AM-S6)	6	405	292	354	No
+2016	Honda	Acura	ILX	Compact Cars	25	36	29	2.4	4	Auto(AM8)	8	351	248	305	No
+2016	Honda	Acura	TLX 2WD	Compact Cars	24	35	28	2.4	4	Auto(AM-S8)	8	372	250	316	No
+2016	Honda	Acura	TLX 2WD	Compact Cars	21	34	25	3.5	6	Auto(S9)	9	427	263	358	No
+2016	Honda	Acura	TLX 4WD	Compact Cars	21	31	25	3.5	6	Auto(S9)	9	415	286	357	No
+2016	Volkswagen Group of	Audi	A4	Compact Cars	24	31	27	2	4	Auto(AV-S8)	8	371	303	341	No
+2016	Volkswagen Group of	Audi	A4 quattro	Compact Cars	21	30	25	2	4	Auto(S8)	8	415	295	361	No
+2016	Volkswagen Group of	Audi	A4 quattro	Compact Cars	22	32	26	2	4	Manual(M6)	6	397	276	343	No
+2016	Volkswagen Group of	Audi	Q3	Compact Cars	20	29	23	2	4	Auto(S6)	6	451	313	389	No
+2016	Volkswagen Group of	Audi	Q3 quattro	Compact Cars	20	28	23	2	4	Auto(S6)	6	446	316	387	No
+2016	Volkswagen Group of	Audi	S4	Compact Cars	18	28	21	3	6	Auto(AM-S7)	7	488	321	413	No
+2016	Volkswagen Group of	Audi	S4	Compact Cars	17	26	20	3	6	Manual(M6)	6	519	341	439	No
+2016	Volkswagen Group of	Bentley	Continental GT	Compact Cars	15	25	19	4	8	Auto(S8)	8	580	347	475	No
+2016	Volkswagen Group of	Bentley	Continental GT	Compact Cars	12	21	15	6	12	Auto(S8)	8	710	421	580	No
+2016	BMW	BMW	320i	Compact Cars	24	36	28	2	4	Auto(S8)	8	378	247	319	No
+2016	BMW	BMW	320i	Compact Cars	23	36	28	2	4	Manual(M6)	6	383	245	321	No
+2016	BMW	BMW	320i xDrive	Compact Cars	23	35	27	2	4	Auto(S8)	8	392	258	332	No
+2016	BMW	BMW	328d	Compact Cars	32	42	36	2	4	Auto(S8)	8	318	242	284	No
+2016	BMW	BMW	328d xDrive	Compact Cars	30	40	34	2	4	Auto(S8)	8	338	252	299	Yes
+2016	BMW	BMW	328i	Compact Cars	23	35	27	2	4	Auto(S8)	8	387	252	327	No
+2016	BMW	BMW	328i	Compact Cars	22	34	26	2	4	Manual(M6)	6	400	259	337	No
+2016	BMW	BMW	328i xDrive	Compact Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	340i	Compact Cars	22	33	26	3	6	Auto(S8)	8	408	270	346	No
+2016	BMW	BMW	340i	Compact Cars	20	30	23	3	6	Manual(M6)	6	454	299	384	No
+2016	BMW	BMW	340i xDrive	Compact Cars	22	33	26	3	6	Auto(S8)	8	407	272	346	No
+2016	BMW	BMW	340i xDrive	Compact Cars	20	29	23	3	6	Manual(M6)	6	449	307	385	No
+2016	BMW	BMW	428i Coupe	Compact Cars	23	35	27	2	4	Auto(S8)	8	387	252	327	No
+2016	BMW	BMW	428i Coupe	Compact Cars	22	34	26	2	4	Manual(M6)	6	400	259	337	No
+2016	BMW	BMW	428i Gran Coupe	Compact Cars	23	34	27	2	4	Auto(S8)	8	394	262	334	No
+2016	BMW	BMW	428i xDrive Coupe	Compact Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	428i xDrive Gran Coupe	Compact Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	435i Coupe	Compact Cars	20	31	24	3	6	Auto(S8)	8	437	288	370	No
+2016	BMW	BMW	435i Coupe	Compact Cars	20	30	23	3	6	Manual(M6)	6	451	299	383	No
+2016	BMW	BMW	435i Gran Coupe	Compact Cars	20	31	24	3	6	Auto(S8)	8	437	288	370	No
+2016	BMW	BMW	435i xDrive Coupe	Compact Cars	20	30	23	3	6	Auto(S8)	8	439	294	374	No
+2016	BMW	BMW	435i xDrive Coupe	Compact Cars	19	28	22	3	6	Manual(M6)	6	464	316	398	No
+2016	BMW	BMW	435i xDrive Gran Coupe	Compact Cars	20	30	23	3	6	Auto(S8)	8	439	294	374	No
+2016	BMW	BMW	640i Gran Coupe	Compact Cars	20	31	24	3	6	Auto(S8)	8	446	289	375	No
+2016	BMW	BMW	640i xDrive Gran Coupe	Compact Cars	20	29	23	3	6	Auto(S8)	8	448	301	382	No
+2016	BMW	BMW	650i Gran Coupe	Compact Cars	17	25	20	4.4	8	Auto(S8)	8	532	354	452	No
+2016	BMW	BMW	650i xDrive Gran Coupe	Compact Cars	15	24	18	4.4	8	Auto(S8)	8	578	369	484	No
+2016	BMW	BMW	Alpina B6 Gran Coupe xDrive	Compact Cars	15	24	18	4.4	8	Auto(S8)	8	578	369	484	No
+2016	BMW	BMW	M3	Compact Cars	17	24	19	3	6	Auto(AM-S7)	7	533	367	459	No
+2016	BMW	BMW	M3	Compact Cars	17	26	20	3	6	Manual(M6)	6	521	340	439	No
+2016	BMW	BMW	M4 Coupe	Compact Cars	17	24	19	3	6	Auto(AM-S7)	7	533	367	459	No
+2016	BMW	BMW	M4 Coupe	Compact Cars	17	26	20	3	6	Manual(M6)	6	521	340	439	No
+2016	BMW	BMW	M6 Gran Coupe	Compact Cars	14	20	16	4.4	8	Auto(AM-S7)	7	652	435	554	No
+2016	BMW	BMW	M6 Gran Coupe	Compact Cars	15	22	17	4.4	8	Manual(M6)	6	605	409	517	No
+2016	General Motors	Buick	VERANO	Compact Cars	21	30	24	2	4	Auto(S6)	6	432	298	372	No
+2016	General Motors	Buick	VERANO	Compact Cars	20	31	24	2	4	Manual(M6)	6	437	287	369	No
+2016	General Motors	Buick	VERANO	Compact Cars	21	32	25	2.4	4	Auto(S6)	6	426	280	361	No
+2016	General Motors	Cadillac	ATS	Compact Cars	22	31	26	2	4	Auto(S8)	8	396	285	346	No
+2016	General Motors	Cadillac	ATS	Compact Cars	20	29	23	2	4	Manual(M6)	6	452	305	386	Yes
+2016	General Motors	Cadillac	ATS	Compact Cars	22	32	26	2.5	4	Auto(S8)	8	401	275	344	No
+2016	General Motors	Cadillac	ATS	Compact Cars	20	30	24	3.6	6	Auto(S8)	8	439	298	375	No
+2016	General Motors	Cadillac	ATS AWD	Compact Cars	22	30	25	2	4	Auto(S8)	8	405	294	355	No
+2016	General Motors	Cadillac	ATS AWD	Compact Cars	19	28	22	3.6	6	Auto(S8)	8	460	321	397	No
+2016	General Motors	Cadillac	ATS-V	Compact Cars	16	24	19	3.6	6	Auto(S8)	8	556	369	472	No
+2016	General Motors	Cadillac	ATS-V	Compact Cars	17	23	19	3.6	6	Manual(M6)	6	531	384	465	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	22	31	25	2	4	Auto(S8)	8	407	280	350	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	21	30	24	2	4	Manual(M6)	6	426	297	368	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	19	28	23	3.6	6	Auto(S8)	8	455	317	393	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	18	27	21	3.6	6	Manual(M6)	6	495	330	421	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	17	28	20	6.2	8	Auto(S8)	8	535	317	437	No
+2016	General Motors	Chevrolet	CAMARO	Compact Cars	16	25	19	6.2	8	Manual(M6)	6	540	356	457	No
+2016	General Motors	Chevrolet	CRUZE	Compact Cars	30	42	35	1.4	4	Auto(S6)	6	293	210	255	No
+2016	General Motors	Chevrolet	CRUZE	Compact Cars	29	41	33	1.4	4	Manual(M6)	6	310	218	269	No
+2016	General Motors	Chevrolet	CRUZE PREMIER	Compact Cars	30	40	34	1.4	4	Auto(S6)	6	293	220	259	No
+2016	General Motors	Chevrolet	SONIC	Compact Cars	27	37	31	1.4	4	Auto(S6)	6	330	243	291	No
+2016	General Motors	Chevrolet	SONIC	Compact Cars	29	40	33	1.4	4	Manual(M6)	6	310	223	271	No
+2016	General Motors	Chevrolet	SONIC	Compact Cars	24	35	28	1.8	4	Auto(S6)	6	363	253	313	No
+2016	General Motors	Chevrolet	SONIC	Compact Cars	26	35	30	1.8	4	Manual(M5)	5	338	255	301	No
+2016	General Motors	Chevrolet	SONIC RS	Compact Cars	25	33	28	1.4	4	Auto(S6)	6	359	267	317	No
+2016	General Motors	Chevrolet	SONIC RS	Compact Cars	26	34	29	1.4	4	Manual(M6)	6	329	261	298	No
+2016	Ford Motor Company	Ford	Fiesta ST FWD	Compact Cars	26	33	29	1.6	4	Manual(M6)	6	338	268	307	Yes
+2016	Ford Motor Company	Ford	FOCUS FWD	Compact Cars	28	40	32	1	3	Auto(S6)	6	315	220	272	No
+2016	Ford Motor Company	Ford	FOCUS FWD	Compact Cars	30	42	35	1	3	Manual(M6)	6	291	210	255	No
+2016	Ford Motor Company	Ford	FOCUS FWD	Compact Cars	27	40	31	2	4	Auto(AM6)	6	330	220	285	No
+2016	Ford Motor Company	Ford	FOCUS FWD	Compact Cars	26	38	30	2	4	Auto(AM-S6)	6	341	235	293	No
+2016	Ford Motor Company	Ford	FOCUS FWD	Compact Cars	26	36	30	2	4	Manual(M5)	5	345	247	297	No
+2016	Ford Motor Company	Ford	Focus FWD FFV	Compact Cars	27	40	31	2	4	Auto(AM6)	6	330	220	285	No
+2016	Ford Motor Company	Ford	Focus FWD FFV	Compact Cars	26	38	30	2	4	Auto(AM-S6)	6	341	234	293	Yes
+2016	Ford Motor Company	Ford	Focus FWD FFV	Compact Cars	26	36	30	2	4	Manual(M5)	5	345	247	297	No
+2016	Honda	Honda	CIVIC 2Dr	Compact Cars	31	41	35	1.5	4	Auto(AV)	1	281	213	250	No
+2016	Honda	Honda	CIVIC 2Dr	Compact Cars	30	41	34	2	4	Auto(AV)	1	294	217	259	No
+2016	Honda	Honda	CIVIC 2Dr	Compact Cars	26	38	31	2	4	Manual(M6)	6	336	229	288	No
+2016	Hyundai	Hyundai Motor Company	Accent	Compact Cars	26	37	30	1.6	4	Auto(S6)	6	336	237	291	No
+2016	Hyundai	Hyundai Motor Company	Accent	Compact Cars	27	38	31	1.6	4	Manual(M6)	6	320	232	280	No
+2016	Hyundai	Hyundai Motor Company	Veloster	Compact Cars	27	33	29	1.6	4	Auto(AM6)	6	336	271	307	No
+2016	Hyundai	Hyundai Motor Company	Veloster	Compact Cars	28	36	31	1.6	4	Auto(AM6)	6	316	248	286	No
+2016	Hyundai	Hyundai Motor Company	Veloster	Compact Cars	25	33	28	1.6	4	Manual(M6)	6	357	269	318	No
+2016	Hyundai	Hyundai Motor Company	Veloster	Compact Cars	27	35	30	1.6	4	Manual(M6)	6	335	255	299	No
+2016	Nissan	Infiniti	Q50 HYBRID	Compact Cars	28	34	30	3.5	6	Auto(S7)	7	315	263	292	No
+2016	Nissan	Infiniti	Q50 HYBRID AWD	Compact Cars	27	31	28	3.5	6	Auto(S7)	7	331	287	317	No
+2016	Kia	Kia Motors Corporation	Forte Koup	Compact Cars	22	30	25	1.6	4	Auto(S6)	6	397	292	350	No
+2016	Kia	Kia Motors Corporation	Forte Koup	Compact Cars	22	29	25	1.6	4	Manual(M6)	6	402	303	357	Yes
+2016	Kia	Kia Motors Corporation	Forte Koup	Compact Cars	25	34	28	2	4	Auto(S6)	6	356	262	314	No
+2016	Kia	Kia Motors Corporation	Forte Koup	Compact Cars	24	33	27	2	4	Manual(M6)	6	367	270	323	No
+2016	Kia	Kia Motors Corporation	Rio	Compact Cars	27	37	31	1.6	4	Auto(S6)	6	325	236	285	No
+2016	Kia	Kia Motors Corporation	Rio	Compact Cars	27	38	31	1.6	4	Manual(M6)	6	323	233	282	No
+2016	Kia	Kia Motors Corporation	Rio ECO	Compact Cars	28	37	31	1.6	4	Auto(S6)	6	318	236	281	No
+2016	Toyota	Lexus	CT 200h	Compact Cars	43	40	42	1.8	4	Auto(AV)	1	205	220	212	No
+2016	Toyota	Lexus	GS F	Compact Cars	16	24	19	5	8	Auto(S8)	8	561	363	472	No
+2016	Toyota	Lexus	IS 200t	Compact Cars	22	33	26	2	4	Auto(S8)	8	400	271	342	No
+2016	Toyota	Lexus	IS 300 AWD	Compact Cars	19	26	21	3.5	6	Auto(S6)	6	474	344	415	No
+2016	Toyota	Lexus	IS 350	Compact Cars	19	28	22	3.5	6	Auto(S8)	8	459	319	396	No
+2016	Toyota	Lexus	IS 350 AWD	Compact Cars	19	26	21	3.5	6	Auto(S6)	6	474	344	415	No
+2016	MAZDA	Mazda	CX-3 2WD	Compact Cars	29	35	31	2	4	Auto(S6)	6	310	255	288	No
+2016	MAZDA	Mazda	CX-3 4WD	Compact Cars	27	32	29	2	4	Auto(S6)	6	329	275	305	No
+2016	MAZDA	Mazda	MAZDA 2	Compact Cars	33	43	37	1.5	4	Auto(S6)	6	266	206	239	No
+2016	MAZDA	Mazda	MAZDA 2	Compact Cars	31	42	35	1.5	4	Manual(M6)	6	283	213	251	No
+2016	MAZDA	Mazda	MAZDA3 4-Door	Compact Cars	30	41	34	2	4	Auto(S6)	6	297	216	260	No
+2016	MAZDA	Mazda	MAZDA3 4-Door	Compact Cars	29	41	33	2	4	Manual(M6)	6	303	218	265	No
+2016	MAZDA	Mazda	MAZDA3 4-Door	Compact Cars	29	40	33	2.5	4	Auto(S6)	6	309	224	271	No
+2016	MAZDA	Mazda	MAZDA3 4-Door	Compact Cars	28	39	32	2.5	4	Auto(S6)	6	317	228	277	No
+2016	MAZDA	Mazda	MAZDA3 4-Door	Compact Cars	25	37	29	2.5	4	Manual(M6)	6	354	242	304	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG C 63	Compact Cars	18	25	20	4	8	Auto(A7)	7	506	360	440	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG C 63 S	Compact Cars	18	25	20	4	8	Auto(A7)	7	506	360	440	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG CLA 45 4MATIC	Compact Cars	23	31	26	2	4	Auto(AM7)	7	389	291	345	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG CLS 63 S 4MATIC	Compact Cars	16	22	18	5.5	8	Auto(A7)	7	570	405	496	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG S 63 4MATIC (coupe)	Compact Cars	15	23	18	5.5	8	Auto(A7)	7	578	383	490	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG S 65 (coupe)	Compact Cars	13	20	15	6	12	Auto(A7)	7	709	438	587	No
+2016	Mercedes-Benz	Mercedes-Benz	C 300	Compact Cars	25	34	28	2	4	Auto(A7)	7	357	263	315	No
+2016	Mercedes-Benz	Mercedes-Benz	C 300 4MATIC	Compact Cars	24	31	27	2	4	Auto(A7)	7	368	283	330	No
+2016	Mercedes-Benz	Mercedes-Benz	C 450 AMG	Compact Cars	21	29	24	3	6	Auto(A7)	7	420	313	371	No
+2016	Mercedes-Benz	Mercedes-Benz	CLA 250	Compact Cars	26	38	30	2	4	Auto(AM7)	7	343	234	294	No
+2016	Mercedes-Benz	Mercedes-Benz	CLA 250 4MATIC	Compact Cars	24	33	27	2	4	Auto(AM7)	7	365	267	321	No
+2016	Mercedes-Benz	Mercedes-Benz	CLA 250 4MATIC	Compact Cars	24	33	27	2	4	Auto(AM7)	7	365	267	321	No
+2016	Mercedes-Benz	Mercedes-Benz	CLS 400	Compact Cars	20	30	24	3	6	Auto(A7)	7	439	296	375	No
+2016	Mercedes-Benz	Mercedes-Benz	CLS 400 4MATIC	Compact Cars	19	26	22	3	6	Auto(A7)	7	461	337	405	No
+2016	Mercedes-Benz	Mercedes-Benz	CLS 550	Compact Cars	17	26	21	4.7	8	Auto(A9)	9	507	339	432	No
+2016	Mercedes-Benz	Mercedes-Benz	CLS 550 4MATIC	Compact Cars	17	25	20	4.7	8	Auto(A9)	9	521	352	445	No
+2016	Mercedes-Benz	Mercedes-Benz	S 550 4MATIC (coupe)	Compact Cars	16	24	19	4.7	8	Auto(A7)	7	542	370	465	No
+2016	BMW	Mini	Mini Cooper Countryman	Compact Cars	25	30	27	1.6	4	Auto(S6)	6	355	296	328	No
+2016	BMW	Mini	Mini Cooper Countryman	Compact Cars	27	32	29	1.6	4	Manual(M6)	6	334	274	307	No
+2016	BMW	Mini	Mini Cooper Paceman	Compact Cars	25	30	27	1.6	4	Auto(S6)	6	355	296	328	No
+2016	BMW	Mini	Mini Cooper Paceman	Compact Cars	27	32	29	1.6	4	Manual(M6)	6	334	274	307	No
+2016	BMW	Mini	Mini Cooper S Countryman	Compact Cars	25	32	28	1.6	4	Auto(S6)	6	352	275	318	No
+2016	BMW	Mini	Mini Cooper S Countryman	Compact Cars	26	32	29	1.6	4	Manual(M6)	6	337	275	309	No
+2016	BMW	Mini	Mini Cooper S Countryman All4	Compact Cars	23	30	26	1.6	4	Auto(S6)	6	379	292	340	No
+2016	BMW	Mini	Mini Cooper S Countryman All4	Compact Cars	25	31	27	1.6	4	Manual(M6)	6	354	287	324	No
+2016	BMW	Mini	Mini Cooper S Paceman	Compact Cars	25	32	28	1.6	4	Auto(S6)	6	352	275	318	No
+2016	BMW	Mini	Mini Cooper S Paceman	Compact Cars	26	32	29	1.6	4	Manual(M6)	6	337	275	309	No
+2016	BMW	Mini	Mini Cooper S Paceman ALL4	Compact Cars	23	30	26	1.6	4	Auto(S6)	6	379	292	340	No
+2016	BMW	Mini	Mini Cooper S Paceman ALL4	Compact Cars	25	31	27	1.6	4	Manual(M6)	6	354	287	324	No
+2016	BMW	Mini	Mini JCW Countryman ALL4	Compact Cars	23	30	26	1.6	4	Auto(S6)	6	379	292	340	No
+2016	BMW	Mini	Mini JCW Countryman ALL4	Compact Cars	25	31	27	1.6	4	Manual(M6)	6	354	287	324	No
+2016	BMW	Mini	Mini JCW Paceman ALL4	Compact Cars	23	30	26	1.6	4	Auto(S6)	6	379	292	340	No
+2016	BMW	Mini	Mini JCW Paceman ALL4	Compact Cars	25	31	27	1.6	4	Manual(M6)	6	354	287	324	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	LANCER	Compact Cars	27	35	30	2	4	Auto(AV-S6)	6	327	253	293	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	LANCER	Compact Cars	24	34	28	2	4	Manual(M5)	5	363	263	318	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	LANCER	Compact Cars	24	31	27	2.4	4	Auto(AV-S6)	6	366	281	328	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	LANCER	Compact Cars	22	31	25	2.4	4	Manual(M5)	5	397	289	349	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	LANCER 4WD	Compact Cars	23	31	26	2.4	4	Auto(AV-S6)	6	374	283	333	No
+2016	Nissan	Nissan	VERSA	Compact Cars	26	35	30	1.6	4	Auto(A4)	4	341	254	302	No
+2016	Nissan	Nissan	VERSA	Compact Cars	31	40	35	1.6	4	Auto(AV)	1	286	221	257	No
+2016	Nissan	Nissan	VERSA	Compact Cars	27	36	30	1.6	4	Manual(M5)	5	327	247	295	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Dawn	Compact Cars	12	19	14	6.6	12	Auto(S8)	8	729	471	612	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom Coupe	Compact Cars	11	19	14	6.7	12	Auto(S8)	8	772	474	638	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom Drophead Coupe	Compact Cars	11	19	14	6.7	12	Auto(S8)	8	771	474	637	No
+2016	Toyota	Scion	tC	Compact Cars	23	31	26	2.5	4	Auto(S6)	6	384	284	339	No
+2016	Toyota	Scion	tC	Compact Cars	23	31	26	2.5	4	Manual(M6)	6	381	287	339	No
+2016	Subaru	Subaru	IMPREZA	Compact Cars	28	37	31	2	4	Auto(AV-S6)	6	319	241	284	No
+2016	Subaru	Subaru	IMPREZA	Compact Cars	25	34	28	2	4	Manual(M5)	5	357	260	313	No
+2016	Subaru	Subaru	WRX	Compact Cars	18	24	21	2	4	Auto(AV-S8)	8	469	358	419	No
+2016	Subaru	Subaru	WRX	Compact Cars	20	27	23	2	4	Manual(M6)	6	433	322	383	No
+2016	Subaru	Subaru	WRX	Compact Cars	17	23	19	2.5	4	Manual(M6)	6	520	383	458	No
+2016	Toyota	TOYOTA	PRIUS c	Compact Cars	53	46	50	1.5	4	Auto(AV)	1	168	192	178	No
+2016	Toyota	TOYOTA	YARIS	Compact Cars	30	36	32	1.5	4	Auto(A4)	4	293	249	273	No
+2016	Toyota	TOYOTA	YARIS	Compact Cars	30	37	33	1.5	4	Manual(M5)	5	290	236	266	No
+2016	Volkswagen Group of	Volkswagen	Beetle	Compact Cars	25	34	28	1.8	4	Auto(S6)	6	360	263	316	No
+2016	Volkswagen Group of	Volkswagen	Beetle	Compact Cars	25	34	28	1.8	4	Manual(M5)	5	358	261	314	No
+2016	Volkswagen Group of	Volkswagen	Beetle	Compact Cars	24	31	27	2	4	Auto(AM-S6)	6	374	282	333	No
+2016	Volkswagen Group of	Volkswagen	Beetle	Compact Cars	23	31	26	2	4	Manual(M6)	6	385	292	343	Yes
+2016	Volkswagen Group of	Volkswagen	Beetle Dune	Compact Cars	24	31	27	1.8	4	Auto(S6)	6	362	281	325	No
+2016	Volkswagen Group of	Volkswagen	CC	Compact Cars	22	31	25	2	4	Auto(AM-S6)	6	403	283	349	No
+2016	Volkswagen Group of	Volkswagen	CC	Compact Cars	21	32	25	2	4	Manual(M6)	6	426	279	360	No
+2016	Volkswagen Group of	Volkswagen	CC 4Motion	Compact Cars	17	25	20	3.6	6	Auto(S6)	6	523	351	446	No
+2016	Volkswagen Group of	Volkswagen	Golf	Compact Cars	25	36	29	1.8	4	Auto(S6)	6	352	247	305	No
+2016	Volkswagen Group of	Volkswagen	Golf	Compact Cars	25	37	30	1.8	4	Manual(M5)	5	350	240	300	No
+2016	Volkswagen Group of	Volkswagen	Golf R	Compact Cars	23	30	25	2	4	Auto(AM-S6)	6	388	298	347	No
+2016	Volkswagen Group of	Volkswagen	Golf R	Compact Cars	22	31	25	2	4	Manual(M6)	6	406	289	354	No
+2016	Volkswagen Group of	Volkswagen	GTI	Compact Cars	25	33	28	2	4	Auto(AM-S6)	6	358	271	319	No
+2016	Volkswagen Group of	Volkswagen	GTI	Compact Cars	25	34	28	2	4	Manual(M6)	6	355	258	311	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	28	39	32	1.4	4	Auto(S6)	6	321	228	279	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	28	40	33	1.4	4	Manual(M5)	5	311	221	271	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	25	36	29	1.8	4	Auto(S6)	6	350	245	302	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	25	37	29	1.8	4	Manual(M5)	5	353	241	303	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	24	33	27	2	4	Auto(AM-S6)	6	370	265	323	No
+2016	Volkswagen Group of	Volkswagen	Jetta	Compact Cars	23	33	27	2	4	Manual(M6)	6	383	273	333	No
+2016	Volkswagen Group of	Volkswagen	Jetta Hybrid	Compact Cars	42	48	44	1.4	4	Auto(AM-S7)	7	212	184	200	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 AWD	Compact Cars	22	31	25	2	4	Auto(S8)	8	408	282	351	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 AWD	Compact Cars	20	29	23	2.5	5	Auto(S6)	6	432	306	375	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 AWD	Compact Cars	18	27	21	3	6	Auto(S6)	6	481	327	412	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 CC AWD	Compact Cars	20	28	23	2.5	5	Auto(S6)	6	438	316	383	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 FWD	Compact Cars	26	38	30	2	4	Auto(S8)	8	339	233	292	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 FWD	Compact Cars	23	33	27	2	4	Auto(S8)	8	383	266	330	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 Inscription AWD	Compact Cars	20	29	23	2.5	5	Auto(S6)	6	432	306	375	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 Inscription FWD	Compact Cars	25	37	29	2	4	Auto(S8)	8	356	240	306	No
+2016	Volvo	Volvo Cars Of North America, LLC	S60 Polestar AWD	Compact Cars	18	27	21	3	6	Auto(S6)	6	481	327	412	No
+2016	Honda	Acura	RLX	Midsize Cars	28	32	30	3.5	6	Auto(AM7)	7	314	278	297	No
+2016	Honda	Acura	RLX	Midsize Cars	20	31	24	3.5	6	Auto(S6)	6	451	289	378	No
+2016	Volkswagen Group of	Audi	A6	Midsize Cars	24	35	28	2	4	Auto(AM-S7)	7	358	252	310	No
+2016	Volkswagen Group of	Audi	A6 quattro	Midsize Cars	22	32	26	2	4	Auto(S8)	8	398	269	340	No
+2016	Volkswagen Group of	Audi	A6 quattro	Midsize Cars	25	38	30	3	6	Auto(S8)	8	403	270	343	No
+2016	Volkswagen Group of	Audi	A6 quattro	Midsize Cars	20	30	24	3	6	Auto(S8)	8	436	296	373	No
+2016	Volkswagen Group of	Audi	A7 quattro	Midsize Cars	25	38	30	3	6	Auto(S8)	8	403	270	343	No
+2016	Volkswagen Group of	Audi	A7 quattro	Midsize Cars	20	30	24	3	6	Auto(S8)	8	436	296	373	No
+2016	Volkswagen Group of	Audi	RS7	Midsize Cars	15	25	18	4	8	Auto(S8)	8	614	355	497	No
+2016	Volkswagen Group of	Audi	S6	Midsize Cars	18	27	21	4	8	Auto(AM-S7)	7	497	332	423	No
+2016	Volkswagen Group of	Audi	S7	Midsize Cars	17	27	21	4	8	Auto(AM-S7)	7	505	331	427	No
+2016	Volkswagen Group of	Audi	S8	Midsize Cars	15	25	19	4	8	Auto(S8)	8	574	352	474	No
+2016	Volkswagen Group of	Bentley	Flying Spur	Midsize Cars	14	24	17	4	8	Auto(S8)	8	638	370	517	No
+2016	Volkswagen Group of	Bentley	Flying Spur	Midsize Cars	12	20	15	6	12	Auto(S8)	8	736	443	604	No
+2016	Volkswagen Group of	Bentley	Mulsanne	Midsize Cars	11	18	13	6.8	8	Auto(S8)	8	791	491	656	No
+2016	BMW	BMW	528i	Midsize Cars	23	34	27	2	4	Auto(S8)	8	394	262	334	No
+2016	BMW	BMW	528i xDrive	Midsize Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	535d	Midsize Cars	26	38	30	3	6	Auto(S8)	8	389	269	335	Yes
+2016	BMW	BMW	535d xDrive	Midsize Cars	26	37	30	3	6	Auto(S8)	8	390	274	338	No
+2016	BMW	BMW	535i	Midsize Cars	20	31	24	3	6	Auto(S8)	8	446	289	375	No
+2016	BMW	BMW	535i xDrive	Midsize Cars	20	29	23	3	6	Auto(S8)	8	448	301	382	No
+2016	BMW	BMW	550i	Midsize Cars	17	25	20	4.4	8	Auto(S8)	8	532	354	452	No
+2016	BMW	BMW	550i xDrive	Midsize Cars	16	25	19	4.4	8	Auto(S8)	8	545	362	463	No
+2016	BMW	BMW	ActiveHybrid 5	Midsize Cars	23	30	26	3	6	Auto(S8)	8	390	293	346	No
+2016	BMW	BMW	M5	Midsize Cars	14	20	16	4.4	8	Auto(AM-S7)	7	652	435	554	No
+2016	BMW	BMW	M5	Midsize Cars	15	22	17	4.4	8	Manual(M6)	6	605	409	517	No
+2016	General Motors	Buick	LACROSSE	Midsize Cars	25	36	29	2.4	4	Auto(S6)	6	359	245	308	No
+2016	General Motors	Buick	LACROSSE	Midsize Cars	18	28	22	3.6	6	Auto(S6)	6	484	315	408	No
+2016	General Motors	Buick	LACROSSE	Midsize Cars	18	28	21	3.6	6	Auto(S6)	6	493	317	422	Yes
+2016	General Motors	Buick	LACROSSE AWD	Midsize Cars	17	26	20	3.6	6	Auto(S6)	6	521	342	441	No
+2016	General Motors	Buick	REGAL	Midsize Cars	21	30	24	2	4	Auto(S6)	6	432	298	372	No
+2016	General Motors	Buick	REGAL	Midsize Cars	20	31	24	2	4	Manual(M6)	6	437	287	369	No
+2016	General Motors	Buick	REGAL	Midsize Cars	25	36	29	2.4	4	Auto(S6)	6	359	245	308	No
+2016	General Motors	Buick	REGAL	Midsize Cars	19	31	23	2.4	4	Auto(S6)	6	455	285	379	No
+2016	General Motors	Buick	REGAL AWD	Midsize Cars	19	27	22	2	4	Auto(S6)	6	468	328	405	No
+2016	General Motors	Cadillac	CTS SEDAN	Midsize Cars	21	31	25	2	4	Auto(S8)	8	414	286	356	No
+2016	General Motors	Cadillac	CTS SEDAN	Midsize Cars	20	30	24	3.6	6	Auto(S8)	8	439	298	375	No
+2016	General Motors	Cadillac	CTS SEDAN	Midsize Cars	16	24	19	3.6	6	Auto(S8)	8	556	369	472	No
+2016	General Motors	Cadillac	CTS SEDAN AWD	Midsize Cars	21	29	24	2	4	Auto(S8)	8	421	305	368	No
+2016	General Motors	Cadillac	CTS SEDAN AWD	Midsize Cars	19	28	22	3.6	6	Auto(S8)	8	460	321	397	No
+2016	General Motors	Cadillac	CTS-V	Midsize Cars	14	21	17	6.2	8	Auto(S8)	8	628	418	534	No
+2016	General Motors	Chevrolet	CRUZE LIMITED	Midsize Cars	26	38	30	1.4	4	Auto(S6)	6	344	236	296	No
+2016	General Motors	Chevrolet	CRUZE LIMITED	Midsize Cars	26	38	30	1.4	4	Manual(M6)	6	340	236	293	No
+2016	General Motors	Chevrolet	CRUZE LIMITED	Midsize Cars	22	35	27	1.8	4	Auto(S6)	6	397	254	333	No
+2016	General Motors	Chevrolet	CRUZE LIMITED	Midsize Cars	25	36	29	1.8	4	Manual(M6)	6	356	243	305	No
+2016	General Motors	Chevrolet	CRUZE LIMITED ECO	Midsize Cars	26	39	31	1.4	4	Auto(A6)	6	340	230	291	No
+2016	General Motors	Chevrolet	CRUZE LIMITED ECO	Midsize Cars	28	42	33	1.4	4	Manual(M6)	6	317	212	269	No
+2016	Quantum Fuel System	Chevrolet	Impala Bi-Fuel (CNG)	Midsize Cars	17	25	20	3.6	6	Auto(S6)	6	514	343	437	No
+2016	General Motors	Chevrolet	MALIBU	Midsize Cars	27	37	31	1.5	4	Auto(A6)	6	330	238	289	No
+2016	General Motors	Chevrolet	MALIBU	Midsize Cars	47	46	46	1.8	4	Auto(AV)	1	197	195	196	No
+2016	General Motors	Chevrolet	MALIBU	Midsize Cars	22	33	26	2	4	Auto(S8)	8	397	268	339	No
+2016	General Motors	Chevrolet	MALIBU LIMITED	Midsize Cars	24	34	27	2.5	4	Auto(S6)	6	377	263	326	No
+2016	General Motors	Chevrolet	SONIC 5 RS	Midsize Cars	25	33	28	1.4	4	Auto(S6)	6	359	267	317	No
+2016	General Motors	Chevrolet	SONIC 5 RS	Midsize Cars	26	34	29	1.4	4	Manual(M6)	6	329	261	298	No
+2016	FCA US LLC	Chrysler	200	Midsize Cars	23	36	28	2.4	4	Auto(A9)	9	384	246	322	No
+2016	FCA US LLC	Chrysler	200	Midsize Cars	23	36	28	2.4	4	Auto(A9)	9	384	246	322	No
+2016	FCA US LLC	Chrysler	200	Midsize Cars	19	32	23	3.6	6	Auto(A9)	9	469	283	385	No
+2016	FCA US LLC	Chrysler	200 AWD	Midsize Cars	18	29	22	3.6	6	Auto(A9)	9	482	306	403	No
+2016	FCA US LLC	Dodge	Challenger	Midsize Cars	19	30	23	3.6	6	Auto(A8)	8	466	296	389	No
+2016	FCA US LLC	Dodge	Challenger	Midsize Cars	16	25	19	5.7	8	Auto(A8)	8	558	352	465	No
+2016	FCA US LLC	Dodge	Challenger	Midsize Cars	15	23	18	5.7	8	Manual(M6)	6	590	379	495	No
+2016	FCA US LLC	Dodge	Challenger	Midsize Cars	15	25	18	6.4	8	Auto(A8)	8	591	357	486	No
+2016	FCA US LLC	Dodge	Challenger	Midsize Cars	14	23	17	6.4	8	Manual(M6)	6	632	392	524	No
+2016	FCA US LLC	Dodge	Challenger SRT8	Midsize Cars	13	22	16	6.2	8	Auto(A8)	8	663	403	546	No
+2016	FCA US LLC	Dodge	Challenger SRT8	Midsize Cars	13	21	16	6.2	8	Manual(M6)	6	681	429	568	No
+2016	FCA US LLC	Dodge	Challenger SRT8	Midsize Cars	15	25	18	6.4	8	Auto(A8)	8	591	357	486	No
+2016	FCA US LLC	Dodge	Challenger SRT8	Midsize Cars	14	23	17	6.4	8	Manual(M6)	6	632	392	524	No
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	27	37	31	1.4	4	Auto(AM6)	6	326	242	288	No
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	27	39	32	1.4	4	Manual(M6)	6	326	224	280	Yes
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	24	34	27	2	4	Auto(A6)	6	372	264	324	No
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	25	36	29	2	4	Manual(M6)	6	354	244	305	No
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	23	35	27	2.4	4	Auto(A6)	6	381	255	324	No
+2016	FCA US LLC	Dodge	Dart	Midsize Cars	22	35	27	2.4	4	Manual(M6)	6	394	252	330	No
+2016	FCA US LLC	Dodge	Dart Aero	Midsize Cars	28	40	32	1.4	4	Auto(AM6)	6	318	224	275	No
+2016	FCA US LLC	Dodge	Dart Aero	Midsize Cars	28	41	32	1.4	4	Manual(M6)	6	320	219	275	No
+2016	FCA US LLC	Dodge	Dart GT	Midsize Cars	22	31	26	2.4	4	Auto(A6)	6	398	283	346	No
+2016	FCA US LLC	Dodge	Dart GT	Midsize Cars	23	33	27	2.4	4	Manual(M6)	6	387	266	332	No
+2016	Ferrari	Ferrari North America, Inc.	FF	Midsize Cars	11	17	13	6.3	12	Auto(AM7)	7	803	539	684	No
+2016	Ferrari	Ferrari North America, Inc.	FF	Midsize Cars	11	16	13	6.3	12	Auto(AM7)	7	825	541	697	No
+2016	Ford Motor Company	Ford	FOCUS RS AWD	Midsize Cars	19	25	22	2.3	4	Manual(M6)	6	459	352	410	No
+2016	Ford Motor Company	Ford	Focus ST FWD	Midsize Cars	22	31	25	2	4	Manual(M6)	6	398	290	349	No
+2016	Ford Motor Company	Ford	FUSION AWD	Midsize Cars	22	31	25	2	4	Auto(S6)	6	410	284	354	No
+2016	Ford Motor Company	Ford	FUSION FWD	Midsize Cars	24	36	28	1.5	4	Auto(S6)	6	374	247	316	No
+2016	Ford Motor Company	Ford	FUSION FWD	Midsize Cars	25	37	29	1.5	4	Auto(S6)	6	356	238	303	No
+2016	Ford Motor Company	Ford	FUSION FWD	Midsize Cars	22	33	26	2	4	Auto(S6)	6	396	267	338	No
+2016	Ford Motor Company	Ford	FUSION FWD	Midsize Cars	22	34	26	2.5	4	Auto(S6)	6	398	262	336	No
+2016	Ford Motor Company	Ford	FUSION HYBRID FWD	Midsize Cars	44	41	42	2	4	Auto(AV)	1	201	217	211	No
+2016	Honda	Honda	ACCORD	Midsize Cars	27	37	31	2.4	4	Auto(AV)	1	326	240	288	No
+2016	Honda	Honda	ACCORD	Midsize Cars	26	35	30	2.4	4	Auto(AV-S7)	7	338	252	299	No
+2016	Honda	Honda	ACCORD	Midsize Cars	23	34	27	2.4	4	Manual(M6)	6	381	264	328	No
+2016	Honda	Honda	ACCORD	Midsize Cars	21	34	26	3.5	6	Auto(A6)	6	418	259	346	No
+2016	Honda	Honda	ACCORD	Midsize Cars	21	32	25	3.5	6	Auto(S6)	6	429	274	359	No
+2016	Honda	Honda	ACCORD	Midsize Cars	18	28	22	3.5	6	Manual(M6)	6	490	318	413	No
+2016	Honda	Honda	CIVIC 4Dr	Midsize Cars	31	42	35	1.5	4	Auto(AV)	1	285	211	252	No
+2016	Honda	Honda	CIVIC 4Dr	Midsize Cars	31	41	35	2	4	Auto(AV)	1	291	215	256	No
+2016	Honda	Honda	CIVIC 4Dr	Midsize Cars	27	40	31	2	4	Manual(M6)	6	330	223	282	No
+2016	Hyundai	Hyundai Motor Company	Elantra	Midsize Cars	28	38	32	1.8	4	Auto(S6)	6	316	230	277	No
+2016	Hyundai	Hyundai Motor Company	Elantra	Midsize Cars	27	37	31	1.8	4	Manual(M6)	6	328	234	286	No
+2016	Hyundai	Hyundai Motor Company	Elantra	Midsize Cars	24	35	28	2	4	Auto(S6)	6	364	256	315	No
+2016	Hyundai	Hyundai Motor Company	Elantra	Midsize Cars	24	34	28	2	4	Manual(M6)	6	364	263	319	No
+2016	Hyundai	Hyundai Motor Company	Elantra GT	Midsize Cars	24	33	27	2	4	Auto(S6)	6	372	273	328	No
+2016	Hyundai	Hyundai Motor Company	Elantra GT	Midsize Cars	24	33	27	2	4	Manual(M6)	6	372	269	325	No
+2016	Hyundai	Hyundai Motor Company	Elantra Limited	Midsize Cars	27	37	31	1.8	4	Auto(S6)	6	329	243	290	No
+2016	Hyundai	Hyundai Motor Company	Sonata HYBRID	Midsize Cars	39	43	41	2	4	Auto(AM6)	6	228	209	220	No
+2016	Hyundai	Hyundai Motor Company	Sonata HYBRID SE	Midsize Cars	40	44	42	2	4	Auto(AM6)	6	224	203	215	No
+2016	Nissan	Infiniti	Q50	Midsize Cars	23	31	26	2	4	Auto(S7)	7	388	292	344	No
+2016	Nissan	Infiniti	Q50	Midsize Cars	19	28	23	3	6	Auto(S7)	7	461	319	397	No
+2016	Nissan	Infiniti	Q50 AWD	Midsize Cars	22	28	24	2	4	Auto(S7)	7	402	316	364	No
+2016	Nissan	Infiniti	Q50 AWD	Midsize Cars	19	27	22	3	6	Auto(S7)	7	465	330	404	No
+2016	Nissan	Infiniti	Q50S	Midsize Cars	19	28	23	3	6	Auto(S7)	7	461	319	397	No
+2016	Nissan	Infiniti	Q50S AWD	Midsize Cars	18	26	21	3	6	Auto(S7)	7	487	341	422	No
+2016	Nissan	Infiniti	Q50S AWD Red Sport	Midsize Cars	19	26	22	3	6	Auto(S7)	7	466	343	411	No
+2016	Nissan	Infiniti	Q50S Red Sport	Midsize Cars	20	26	22	3	6	Auto(S7)	7	448	343	401	No
+2016	Nissan	Infiniti	Q70	Midsize Cars	18	26	21	3.7	6	Auto(S7)	7	498	349	431	No
+2016	Nissan	Infiniti	Q70	Midsize Cars	16	24	19	5.6	8	Auto(S7)	7	544	365	463	No
+2016	Nissan	Infiniti	Q70 AWD	Midsize Cars	18	24	20	3.7	6	Auto(S7)	7	503	365	441	No
+2016	Nissan	Infiniti	Q70 AWD	Midsize Cars	16	23	18	5.6	8	Auto(S7)	7	568	388	487	No
+2016	Nissan	Infiniti	Q70 HYBRID	Midsize Cars	29	34	31	3.5	6	Auto(S7)	7	303	263	285	No
+2016	Jaguar Land Rover L	Jaguar	XF	Midsize Cars	20	30	24	3	6	Auto(S8)	8	440	295	375	No
+2016	Jaguar Land Rover L	Jaguar	XF AWD	Midsize Cars	20	28	23	3	6	Auto(S8)	8	449	314	388	No
+2016	Kia	Kia Motors Corporation	Forte	Midsize Cars	26	39	31	1.8	4	Auto(S6)	6	337	230	289	No
+2016	Kia	Kia Motors Corporation	Forte	Midsize Cars	25	37	30	1.8	4	Manual(M6)	6	350	237	299	No
+2016	Kia	Kia Motors Corporation	Forte	Midsize Cars	24	35	28	2	4	Auto(S6)	6	364	255	315	No
+2016	Kia	Kia Motors Corporation	Optima HYBRID	Midsize Cars	36	40	38	2.4	4	Auto(AM6)	6	247	224	237	No
+2016	Kia	Kia Motors Corporation	Optima HYBRID EX	Midsize Cars	35	39	37	2.4	4	Auto(AM6)	6	252	229	242	No
+2016	Toyota	Lexus	ES 300h	Midsize Cars	40	39	40	2.5	4	Auto(AV-S6)	6	219	228	223	No
+2016	Toyota	Lexus	ES 350	Midsize Cars	21	31	24	3.5	6	Auto(S6)	6	424	282	368	No
+2016	Toyota	Lexus	GS 200t	Midsize Cars	22	33	26	2	4	Auto(S8)	8	400	271	342	No
+2016	Toyota	Lexus	GS 200t F SPORT	Midsize Cars	21	30	24	2	4	Auto(S8)	8	426	292	366	No
+2016	Toyota	Lexus	GS 350	Midsize Cars	20	29	23	3.5	6	Auto(S8)	8	447	310	385	No
+2016	Toyota	Lexus	GS 350 AWD	Midsize Cars	19	26	22	3.5	6	Auto(S6)	6	462	337	406	No
+2016	Toyota	Lexus	GS 350 F SPORT	Midsize Cars	19	28	22	3.5	6	Auto(S8)	8	470	322	404	No
+2016	Toyota	Lexus	GS 450h	Midsize Cars	29	34	31	3.5	6	Auto(AV-S8)	8	302	259	283	No
+2016	Toyota	Lexus	LS 460	Midsize Cars	16	24	19	4.6	8	Auto(S8)	8	540	361	460	No
+2016	Toyota	Lexus	LS 460 AWD	Midsize Cars	16	23	18	4.6	8	Auto(S8)	8	569	385	486	No
+2016	Toyota	Lexus	LS 460 L	Midsize Cars	16	24	19	4.6	8	Auto(S8)	8	540	361	460	No
+2016	Toyota	Lexus	LS 460 L AWD	Midsize Cars	16	23	18	4.6	8	Auto(S8)	8	569	385	486	No
+2016	Toyota	Lexus	LS 600h L	Midsize Cars	19	23	20	5	8	Auto(AV-S8)	8	476	377	431	No
+2016	Ford Motor Company	Lincoln	MKZ AWD	Midsize Cars	22	31	25	2	4	Auto(S6)	6	410	284	354	No
+2016	Ford Motor Company	Lincoln	MKZ AWD	Midsize Cars	17	24	20	3.7	6	Auto(S6)	6	519	364	449	No
+2016	Ford Motor Company	Lincoln	MKZ FWD	Midsize Cars	22	33	26	2	4	Auto(S6)	6	396	267	338	No
+2016	Ford Motor Company	Lincoln	MKZ FWD	Midsize Cars	18	27	22	3.7	6	Auto(S6)	6	483	327	413	No
+2016	Ford Motor Company	Lincoln	MKZ HYBRID FWD	Midsize Cars	41	39	40	2	4	Auto(AV)	1	216	228	222	Yes
+2016	Maserati	Maserati	Ghibli  S RWD	Midsize Cars	16	24	19	3	6	Auto(A8)	8	549	377	472	No
+2016	Maserati	Maserati	Ghibli V6 Rear Wheel Drive (RWD)	Midsize Cars	17	24	19	3	6	Auto(A8)	8	534	369	460	No
+2016	Maserati	Maserati	Ghibli V6 SQ4 AWD	Midsize Cars	16	24	19	3	6	Auto(A8)	8	558	374	475	No
+2016	MAZDA	Mazda	MAZDA 6	Midsize Cars	28	40	32	2.5	4	Auto(S6)	6	319	222	276	No
+2016	MAZDA	Mazda	MAZDA 6	Midsize Cars	26	38	31	2.5	4	Auto(S6)	6	337	234	290	No
+2016	MAZDA	Mazda	MAZDA 6	Midsize Cars	25	37	29	2.5	4	Manual(M6)	6	353	240	302	No
+2016	MAZDA	Mazda	MAZDA3 5-Door	Midsize Cars	30	40	33	2	4	Auto(S6)	6	300	222	265	No
+2016	MAZDA	Mazda	MAZDA3 5-Door	Midsize Cars	29	40	33	2	4	Manual(M6)	6	308	222	269	Yes
+2016	MAZDA	Mazda	MAZDA3 5-Door	Midsize Cars	28	39	32	2.5	4	Auto(S6)	6	314	229	276	No
+2016	MAZDA	Mazda	MAZDA3 5-Door	Midsize Cars	27	37	31	2.5	4	Auto(S6)	6	325	243	288	No
+2016	MAZDA	Mazda	MAZDA3 5-Door	Midsize Cars	26	35	29	2.5	4	Manual(M6)	6	349	252	305	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG E 63 4MATIC	Midsize Cars	16	23	19	5.5	8	Auto(A7)	7	550	384	475	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG E 63 S 4MATIC	Midsize Cars	15	22	18	5.5	8	Auto(A7)	7	578	401	498	No
+2016	Mercedes-Benz	Mercedes-Benz	E 250 BLUETEC	Midsize Cars	28	42	33	2.1	4	Auto(A7)	7	360	244	308	No
+2016	Mercedes-Benz	Mercedes-Benz	E 250 BLUETEC 4MATIC	Midsize Cars	27	38	31	2.1	4	Auto(A7)	7	374	264	325	No
+2016	Mercedes-Benz	Mercedes-Benz	E 350	Midsize Cars	20	29	23	3.5	6	Auto(A7)	7	434	307	377	No
+2016	Mercedes-Benz	Mercedes-Benz	E 350	Midsize Cars	20	29	23	3.5	6	Auto(A7)	7	434	307	377	No
+2016	Mercedes-Benz	Mercedes-Benz	E 350 4MATIC	Midsize Cars	20	28	23	3.5	6	Auto(A7)	7	433	321	382	No
+2016	Mercedes-Benz	Mercedes-Benz	E 350 4MATIC	Midsize Cars	20	28	23	3.5	6	Auto(A7)	7	433	321	382	No
+2016	Mercedes-Benz	Mercedes-Benz	E 400	Midsize Cars	20	29	23	3	6	Auto(A7)	7	436	306	378	No
+2016	Mercedes-Benz	Mercedes-Benz	E 400 4MATIC	Midsize Cars	20	28	23	3	6	Auto(A7)	7	452	322	393	No
+2016	Mercedes-Benz	Mercedes-Benz	E 550 4MATIC	Midsize Cars	18	24	21	4.7	8	Auto(A7)	7	491	366	435	No
+2016	BMW	Mini	Mini Cooper Clubman	Midsize Cars	25	34	28	1.5	4	Auto(S6)	6	355	263	314	No
+2016	BMW	Mini	Mini Cooper Clubman	Midsize Cars	25	35	28	1.5	4	Manual(M6)	6	360	256	313	No
+2016	BMW	Mini	Mini Cooper S Clubman	Midsize Cars	24	34	27	2	4	Auto(S8)	8	376	264	325	No
+2016	BMW	Mini	Mini Cooper S Clubman	Midsize Cars	22	32	26	2	4	Manual(M6)	6	398	280	345	No
+2016	Nissan	Nissan	ALTIMA	Midsize Cars	27	39	31	2.5	4	Auto(AV)	1	330	229	287	Yes
+2016	Nissan	Nissan	ALTIMA 3.5	Midsize Cars	22	32	26	3.5	6	Auto(AV-S7)	7	405	280	349	No
+2016	Nissan	Nissan	ALTIMA SR	Midsize Cars	26	37	30	2.5	4	Auto(AV-S7)	7	342	240	296	No
+2016	Nissan	Nissan	MAXIMA	Midsize Cars	22	30	25	3.5	6	Auto(AV-S7)	7	412	297	360	No
+2016	Nissan	Nissan	SENTRA	Midsize Cars	29	38	32	1.8	4	Auto(AV)	1	304	234	278	No
+2016	Nissan	Nissan	SENTRA	Midsize Cars	27	36	30	1.8	4	Manual(M6)	6	330	249	294	No
+2016	Nissan	Nissan	SENTRA FE+	Midsize Cars	30	40	34	1.8	4	Auto(AV)	1	295	224	263	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Wraith	Midsize Cars	13	21	15	6.6	12	Auto(S8)	8	706	420	577	No
+2016	Toyota	Scion	iM	Midsize Cars	28	37	32	1.8	4	Auto(AV-S7)	7	311	238	278	No
+2016	Toyota	Scion	iM	Midsize Cars	27	36	31	1.8	4	Manual(M6)	6	324	247	289	No
+2016	Subaru	Subaru	LEGACY	Midsize Cars	26	36	30	2.5	4	Auto(AV-S6)	6	340	246	298	No
+2016	Subaru	Subaru	LEGACY	Midsize Cars	20	29	23	3.6	6	Auto(AV-S6)	6	448	308	385	No
+2016	Toyota	Toyota	AVALON	Midsize Cars	21	31	24	3.5	6	Auto(S6)	6	425	284	361	No
+2016	Toyota	Toyota	AVALON HYBRID	Midsize Cars	40	39	40	2.5	4	Auto(AV-S6)	6	219	228	223	No
+2016	Toyota	Toyota	CAMRY	Midsize Cars	25	35	28	2.5	4	Auto(S6)	6	356	251	316	No
+2016	Toyota	Toyota	CAMRY	Midsize Cars	21	31	25	3.5	6	Auto(S6)	6	415	288	358	No
+2016	Toyota	Toyota	CAMRY HYBRID LE	Midsize Cars	43	39	41	2.5	4	Auto(AV)	1	207	224	215	No
+2016	Toyota	Toyota	CAMRY HYBRID XLE/SE	Midsize Cars	40	38	40	2.5	4	Auto(AV)	1	218	230	224	No
+2016	Toyota	Toyota	COROLLA	Midsize Cars	27	36	31	1.8	4	Auto(A4)	4	324	242	287	No
+2016	Toyota	Toyota	COROLLA	Midsize Cars	29	38	32	1.8	4	Auto(AV)	1	310	234	276	Yes
+2016	Toyota	Toyota	COROLLA	Midsize Cars	29	37	32	1.8	4	Auto(AV-S7)	7	307	240	277	No
+2016	Toyota	Toyota	COROLLA	Midsize Cars	28	37	31	1.8	4	Manual(M6)	6	314	237	284	No
+2016	Toyota	Toyota	COROLLA LE ECO	Midsize Cars	30	42	35	1.8	4	Auto(AV)	1	293	214	257	No
+2016	Toyota	Toyota	COROLLA LE ECO	Midsize Cars	30	40	34	1.8	4	Auto(AV)	1	290	224	260	No
+2016	Toyota	Toyota	PRIUS	Midsize Cars	54	50	52	1.8	4	Auto(AV)	1	164	178	170	No
+2016	Toyota	Toyota	PRIUS Eco	Midsize Cars	58	53	56	1.8	4	Auto(AV)	1	152	166	158	No
+2016	Volkswagen Group of	Volkswagen	Passat	Midsize Cars	25	38	29	1.8	4	Auto(S6)	6	355	236	302	No
+2016	Volkswagen Group of	Volkswagen	Passat	Midsize Cars	20	28	23	3.6	6	Auto(AM-S6)	6	449	319	390	No
+2016	Volvo	Volvo Cars Of North America, LLC	S80 FWD	Midsize Cars	25	37	29	2	4	Auto(S8)	8	356	240	306	No
+2016	Volkswagen Group of	Audi	A8L	Large Cars	24	36	28	3	6	Auto(S8)	8	426	280	360	No
+2016	Volkswagen Group of	Audi	A8L	Large Cars	19	29	22	3	6	Auto(S8)	8	473	303	397	No
+2016	Volkswagen Group of	Audi	A8L	Large Cars	18	29	22	4	8	Auto(S8)	8	492	310	410	No
+2016	Volkswagen Group of	Audi	A8L	Large Cars	14	22	17	6.3	12	Auto(S8)	8	640	403	534	No
+2016	BMW	BMW	328i xDrive Gran Turismo	Large Cars	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	BMW	BMW	335i xDrive Gran Turismo	Large Cars	20	30	23	3	6	Auto(S8)	8	439	294	374	No
+2016	BMW	BMW	535i Gran Turismo	Large Cars	19	28	22	3	6	Auto(S8)	8	470	322	403	No
+2016	BMW	BMW	535i xDrive Gran Turismo	Large Cars	18	26	21	3	6	Auto(S8)	8	484	337	418	No
+2016	BMW	BMW	740i	Large Cars	21	29	24	3	6	Auto(S8)	8	425	305	371	No
+2016	BMW	BMW	750i	Large Cars	17	25	20	4.4	8	Auto(S8)	8	531	321	436	Yes
+2016	BMW	BMW	750i xDrive	Large Cars	16	25	19	4.4	8	Auto(S8)	8	542	358	459	No
+2016	BMW	BMW	X1 xDrive28i	Large Cars	22	32	26	2	4	Auto(S8)	8	402	278	346	No
+2016	General Motors	Cadillac	CT6	Large Cars	22	31	25	2	4	Auto(S8)	8	408	289	354	No
+2016	General Motors	Cadillac	CT6 AWD	Large Cars	18	26	21	3	6	Auto(S8)	8	491	339	423	No
+2016	General Motors	Cadillac	CT6 AWD	Large Cars	18	27	22	3.6	6	Auto(S8)	8	481	328	412	No
+2016	General Motors	Cadillac	XTS	Large Cars	18	28	22	3.6	6	Auto(S6)	6	484	315	408	No
+2016	General Motors	Cadillac	XTS AWD	Large Cars	17	26	20	3.6	6	Auto(S6)	6	524	336	440	No
+2016	General Motors	Cadillac	XTS AWD	Large Cars	16	23	18	3.6	6	Auto(S6)	6	568	385	486	No
+2016	General Motors	Chevrolet	IMPALA	Large Cars	22	31	25	2.5	4	Auto(S6)	6	402	286	354	No
+2016	General Motors	Chevrolet	IMPALA	Large Cars	18	28	22	3.6	6	Auto(S6)	6	484	315	408	No
+2016	General Motors	Chevrolet	IMPALA	Large Cars	19	29	22	3.6	6	Auto(S6)	6	472	309	399	No
+2016	General Motors	Chevrolet	IMPALA LIMITED	Large Cars	18	30	22	3.6	6	Auto(A6)	6	498	299	408	No
+2016	General Motors	Chevrolet	SS	Large Cars	14	20	16	6.2	8	Auto(S6)	6	655	439	558	No
+2016	General Motors	Chevrolet	SS	Large Cars	14	22	17	6.2	8	Manual(M6)	6	618	401	520	No
+2016	FCA US LLC	Chrysler	300	Large Cars	19	31	23	3.6	6	Auto(A8)	8	466	290	386	Yes
+2016	FCA US LLC	Chrysler	300	Large Cars	19	31	23	3.6	6	Auto(A8)	8	466	290	386	No
+2016	FCA US LLC	Chrysler	300	Large Cars	16	25	19	5.7	8	Auto(A8)	8	558	352	465	No
+2016	FCA US LLC	Chrysler	300 AWD	Large Cars	18	27	21	3.6	6	Auto(A8)	8	485	326	413	No
+2016	FCA US LLC	Chrysler	300 AWD	Large Cars	18	27	21	3.6	6	Auto(A8)	8	485	326	413	No
+2016	FCA US LLC	Dodge	Charger	Large Cars	19	31	23	3.6	6	Auto(A8)	8	466	290	386	No
+2016	FCA US LLC	Dodge	Charger	Large Cars	19	31	23	3.6	6	Auto(A8)	8	466	290	386	No
+2016	FCA US LLC	Dodge	Charger	Large Cars	16	25	19	5.7	8	Auto(A8)	8	558	352	465	No
+2016	FCA US LLC	Dodge	Charger	Large Cars	15	25	18	6.4	8	Auto(A8)	8	591	357	486	No
+2016	FCA US LLC	Dodge	Charger AWD	Large Cars	18	27	21	3.6	6	Auto(A8)	8	485	326	413	No
+2016	FCA US LLC	Dodge	Charger AWD	Large Cars	18	27	21	3.6	6	Auto(A8)	8	485	326	413	No
+2016	FCA US LLC	Dodge	Charger SRT8	Large Cars	13	22	16	6.2	8	Auto(A8)	8	663	403	546	No
+2016	FCA US LLC	Dodge	Charger SRT8	Large Cars	15	25	18	6.4	8	Auto(A8)	8	591	357	486	No
+2016	Ford Motor Company	Ford	C-MAX Hybrid FWD	Large Cars	42	37	40	2	4	Auto(AV)	1	212	241	225	No
+2016	Ford Motor Company	Ford	TAURUS AWD	Large Cars	17	24	19	3.5	6	Auto(S6)	6	514	370	467	No
+2016	Ford Motor Company	Ford	TAURUS AWD	Large Cars	16	24	19	3.5	6	Auto(S6)	6	555	370	468	No
+2016	Ford Motor Company	Ford	TAURUS AWD FFV	Large Cars	17	24	19	3.5	6	Auto(S6)	6	514	370	467	No
+2016	Ford Motor Company	Ford	TAURUS FWD	Large Cars	20	29	23	2	4	Auto(S6)	6	445	307	387	No
+2016	Ford Motor Company	Ford	TAURUS FWD	Large Cars	18	27	21	3.5	6	Auto(S6)	6	493	329	423	No
+2016	Ford Motor Company	Ford	TAURUS FWD FFV	Large Cars	18	27	21	3.5	6	Auto(S6)	6	493	329	423	No
+2016	Hyundai	Hyundai Motor Company	Azera	Large Cars	20	29	23	3.3	6	Auto(S6)	6	454	310	389	No
+2016	Hyundai	Hyundai Motor Company	Azera Limited	Large Cars	19	28	22	3.3	6	Auto(S6)	6	473	317	403	No
+2016	Hyundai	Hyundai Motor Company	Equus	Large Cars	15	23	18	5	8	Auto(S8)	8	597	387	502	No
+2016	Hyundai	Hyundai Motor Company	Genesis AWD	Large Cars	16	25	19	3.8	6	Auto(S8)	8	544	356	459	No
+2016	Hyundai	Hyundai Motor Company	Genesis RWD	Large Cars	18	29	22	3.8	6	Auto(S8)	8	489	311	409	No
+2016	Hyundai	Hyundai Motor Company	Genesis RWD	Large Cars	15	23	18	5	8	Auto(S8)	8	600	384	503	No
+2016	Hyundai	Hyundai Motor Company	Sonata	Large Cars	28	38	32	1.6	4	Auto(AM7)	7	318	237	282	No
+2016	Hyundai	Hyundai Motor Company	Sonata	Large Cars	23	32	26	2	4	Auto(S6)	6	395	282	344	No
+2016	Hyundai	Hyundai Motor Company	Sonata	Large Cars	25	38	30	2.4	4	Auto(S6)	6	355	239	303	No
+2016	Hyundai	Hyundai Motor Company	Sonata Limited	Large Cars	21	31	25	2	4	Auto(S6)	6	421	291	362	No
+2016	Hyundai	Hyundai Motor Company	Sonata SPORT/LIMITED	Large Cars	25	36	29	2.4	4	Auto(S6)	6	363	251	312	No
+2016	Jaguar Land Rover L	Jaguar	XJ	Large Cars	18	27	21	3	6	Auto(S8)	8	487	325	414	No
+2016	Jaguar Land Rover L	Jaguar	XJ	Large Cars	15	23	18	5	8	Auto(S8)	8	599	387	504	No
+2016	Jaguar Land Rover L	Jaguar	XJ AWD	Large Cars	17	26	20	3	6	Auto(S8)	8	530	337	443	No
+2016	Jaguar Land Rover L	Jaguar	XJL	Large Cars	18	27	21	3	6	Auto(S8)	8	490	327	417	No
+2016	Jaguar Land Rover L	Jaguar	XJL	Large Cars	15	23	18	5	8	Auto(S8)	8	599	387	504	No
+2016	Jaguar Land Rover L	Jaguar	XJL AWD	Large Cars	17	25	20	3	6	Auto(S8)	8	531	350	449	No
+2016	Kia	Kia Motors Corporation	Cadenza	Large Cars	19	28	22	3.3	6	Auto(S6)	6	477	316	404	No
+2016	Kia	Kia Motors Corporation	Forte 5	Large Cars	21	29	24	1.6	4	Auto(S6)	6	419	304	367	No
+2016	Kia	Kia Motors Corporation	Forte 5	Large Cars	21	29	24	1.6	4	Manual(M6)	6	413	306	365	No
+2016	Kia	Kia Motors Corporation	Forte 5	Large Cars	25	33	28	2	4	Auto(S6)	6	358	272	319	No
+2016	Kia	Kia Motors Corporation	K900	Large Cars	17	26	20	3.8	6	Auto(S8)	8	527	350	448	No
+2016	Kia	Kia Motors Corporation	K900	Large Cars	15	23	18	5	8	Auto(S8)	8	606	398	512	No
+2016	Kia	Kia Motors Corporation	Optima	Large Cars	28	39	32	1.6	4	Auto(AM7)	7	321	233	281	No
+2016	Kia	Kia Motors Corporation	Optima	Large Cars	22	32	25	2	4	Auto(S6)	6	416	284	357	No
+2016	Kia	Kia Motors Corporation	Optima	Large Cars	24	35	28	2.4	4	Auto(S6)	6	367	254	316	No
+2016	Kia	Kia Motors Corporation	Optima FE	Large Cars	22	32	26	2	4	Auto(S6)	6	410	280	352	No
+2016	Kia	Kia Motors Corporation	Optima FE	Large Cars	25	37	30	2.4	4	Auto(S6)	6	353	243	304	No
+2016	Ford Motor Company	Lincoln	MKS AWD	Large Cars	16	24	19	3.5	6	Auto(S6)	6	555	370	468	No
+2016	Ford Motor Company	Lincoln	MKS AWD	Large Cars	17	24	19	3.7	6	Auto(S6)	6	535	372	462	No
+2016	Ford Motor Company	Lincoln	MKS FWD	Large Cars	17	26	20	3.7	6	Auto(S6)	6	512	346	437	No
+2016	Maserati	Maserati	QUATTROPORTE GTS	Large Cars	15	22	17	3.8	8	Auto(A8)	8	610	407	519	No
+2016	Maserati	Maserati	QUATTROPORTE S	Large Cars	16	23	18	3	6	Auto(A8)	8	561	386	482	No
+2016	Maserati	Maserati	QUATTROPORTE SQ4 V6	Large Cars	16	23	18	3	6	Auto(A8)	8	567	386	486	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG S 63 4MATIC	Large Cars	15	23	18	5.5	8	Auto(A7)	7	593	383	499	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG S 65	Large Cars	13	20	15	6	12	Auto(A7)	7	694	443	581	No
+2016	Mercedes-Benz	Mercedes-Benz	Maybach S 600	Large Cars	13	20	15	6	12	Auto(A7)	7	689	440	577	No
+2016	Mercedes-Benz	Mercedes-Benz	S 550	Large Cars	17	26	20	4.7	8	Auto(A7)	7	528	341	444	No
+2016	Mercedes-Benz	Mercedes-Benz	S 550 4MATIC	Large Cars	16	26	19	4.7	8	Auto(A7)	7	557	346	462	No
+2016	Mercedes-Benz	Mercedes-Benz	S 600	Large Cars	14	21	16	6	12	Auto(A7)	7	653	416	547	No
+2016	Porsche	Porsche	Panamera	Large Cars	18	28	22	3.6	6	Auto(AM-S7)	7	487	319	411	No
+2016	Porsche	Porsche	Panamera 4	Large Cars	18	27	21	3.6	6	Auto(AM-S7)	7	494	331	421	No
+2016	Porsche	Porsche	Panamera 4S	Large Cars	17	27	21	3	6	Auto(AM-S7)	7	508	333	429	No
+2016	Porsche	Porsche	Panamera 4S Executive	Large Cars	17	26	20	3	6	Auto(AM-S7)	7	517	336	436	No
+2016	Porsche	Porsche	Panamera GTS	Large Cars	16	24	19	4.8	8	Auto(AM-S7)	7	572	368	480	No
+2016	Porsche	Porsche	Panamera S	Large Cars	17	27	21	3	6	Auto(AM-S7)	7	508	333	429	No
+2016	Porsche	Porsche	Panamera Turbo	Large Cars	15	24	18	4.8	8	Auto(AM-S7)	7	577	368	483	No
+2016	Porsche	Porsche	Panamera Turbo Executive	Large Cars	15	24	18	4.8	8	Auto(AM-S7)	7	583	372	488	No
+2016	Porsche	Porsche	Panamera Turbo S	Large Cars	15	24	18	4.8	8	Auto(AM-S7)	7	577	368	483	No
+2016	Porsche	Porsche	Panamera Turbo S Executive	Large Cars	15	24	18	4.8	8	Auto(AM-S7)	7	583	372	488	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost	Large Cars	13	21	15	6.6	12	Auto(S8)	8	709	422	580	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Ghost EWB	Large Cars	13	21	15	6.6	12	Auto(S8)	8	709	422	580	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom	Large Cars	11	19	14	6.7	12	Auto(S8)	8	772	474	638	No
+2016	Rolls-Royce	Rolls-Royce Motor Cars Limited	Phantom EWB	Large Cars	11	19	14	6.7	12	Auto(S8)	8	771	474	637	No
+2016	Volkswagen Group of	Audi	allroad quattro	Station Wagons	21	28	24	2	4	Auto(S8)	8	420	317	373	No
+2016	BMW	BMW	328d xDrive Sports Wagon	Station Wagons	30	40	34	2	4	Auto(S8)	8	338	252	299	No
+2016	BMW	BMW	328i xDrive Sports Wagon	Station Wagons	22	34	26	2	4	Auto(S8)	8	398	263	338	No
+2016	General Motors	Chevrolet	SONIC 5	Station Wagons	27	37	31	1.4	4	Auto(S6)	6	330	243	291	No
+2016	General Motors	Chevrolet	SONIC 5	Station Wagons	29	40	33	1.4	4	Manual(M6)	6	310	223	271	No
+2016	General Motors	Chevrolet	SONIC 5	Station Wagons	24	35	28	1.8	4	Auto(S6)	6	363	253	313	No
+2016	General Motors	Chevrolet	SONIC 5	Station Wagons	26	35	30	1.8	4	Manual(M5)	5	338	255	301	Yes
+2016	FCA US LLC	FIAT	500L	Station Wagons	22	30	25	1.4	4	Auto(A6)	6	400	292	351	No
+2016	FCA US LLC	FIAT	500L	Station Wagons	25	33	28	1.4	4	Manual(M6)	6	348	269	312	No
+2016	Honda	Honda	FIT	Station Wagons	33	41	36	1.5	4	Auto(AV)	1	269	216	247	No
+2016	Honda	Honda	FIT	Station Wagons	32	38	35	1.5	4	Auto(AV-S7)	7	275	233	256	No
+2016	Honda	Honda	FIT	Station Wagons	29	37	32	1.5	4	Manual(M6)	6	306	241	277	No
+2016	Nissan	Infiniti	QX50	Station Wagons	17	24	20	3.7	6	Auto(S7)	7	512	370	448	No
+2016	Nissan	Infiniti	QX50 AWD	Station Wagons	17	24	20	3.7	6	Auto(S7)	7	520	369	452	No
+2016	Kia	Kia Motors Corporation	Soul	Station Wagons	24	30	26	1.6	4	Auto(S6)	6	365	291	332	No
+2016	Kia	Kia Motors Corporation	Soul	Station Wagons	24	30	26	1.6	4	Manual(M6)	6	370	291	335	No
+2016	Kia	Kia Motors Corporation	Soul	Station Wagons	24	31	27	2	4	Auto(S6)	6	373	286	334	No
+2016	Kia	Kia Motors Corporation	Soul ECO dynamics	Station Wagons	24	31	27	2	4	Auto(S6)	6	369	292	334	No
+2016	Nissan	Nissan	JUKE	Station Wagons	28	32	30	1.6	4	Auto(AV-S7)	7	319	279	301	No
+2016	Nissan	Nissan	JUKE	Station Wagons	28	34	30	1.6	4	Manual(M6)	6	323	261	295	No
+2016	Nissan	Nissan	JUKE AWD	Station Wagons	26	31	28	1.6	4	Auto(AV-S7)	7	342	288	318	No
+2016	Nissan	Nissan	JUKE NISMO RS	Station Wagons	25	31	27	1.6	4	Manual(M6)	6	356	283	329	No
+2016	Nissan	Nissan	JUKE NISMO RS AWD	Station Wagons	25	29	27	1.6	4	Auto(AV-S8)	8	356	307	334	No
+2016	Subaru	Subaru	IMPREZA SPORT	Station Wagons	27	36	31	2	4	Auto(AV-S6)	6	326	245	290	No
+2016	Subaru	Subaru	IMPREZA SPORT	Station Wagons	24	33	28	2	4	Manual(M5)	5	369	267	323	No
+2016	Subaru	Subaru	IMPREZA WAGON	Station Wagons	28	37	31	2	4	Auto(AV-S6)	6	319	241	284	Yes
+2016	Subaru	Subaru	IMPREZA WAGON	Station Wagons	25	34	28	2	4	Manual(M5)	5	357	260	313	No
+2016	Volkswagen Group of	Volkswagen	Golf SportWagen	Station Wagons	25	35	29	1.8	4	Auto(S6)	6	348	253	305	No
+2016	Volkswagen Group of	Volkswagen	Golf SportWagen	Station Wagons	25	36	29	1.8	4	Manual(M5)	5	358	248	309	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60 AWD	Station Wagons	22	31	25	2	4	Auto(S8)	8	408	282	351	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60 AWD	Station Wagons	20	29	23	2.5	5	Auto(S6)	6	432	306	375	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60 AWD	Station Wagons	18	27	21	3	6	Auto(S6)	6	481	327	412	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60 FWD	Station Wagons	25	37	29	2	4	Auto(S8)	8	356	240	306	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60 Polestar AWD	Station Wagons	18	27	21	3	6	Auto(S6)	6	481	327	412	No
+2016	Volvo	Volvo Cars Of North America, LLC	V60CC AWD	Station Wagons	20	28	23	2.5	5	Auto(S6)	6	438	316	383	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG E 63 S 4MATIC (stat. wagon)	Station Wagons	15	21	18	5.5	8	Auto(A7)	7	574	405	498	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GLA 45 4MATIC	Station Wagons	22	29	25	2	4	Auto(AM7)	7	401	307	359	No
+2016	Mercedes-Benz	Mercedes-Benz	E 350 4Matic (Wagon)	Station Wagons	20	27	22	3.5	6	Auto(A7)	7	443	334	394	No
+2016	Mercedes-Benz	Mercedes-Benz	GLA 250	Station Wagons	25	35	29	2	4	Auto(AM7)	7	355	249	307	No
+2016	Nissan	Nissan	MURANO AWD	Station Wagons	21	28	24	3.5	6	Auto(AV-S7)	7	423	318	376	No
+2016	Nissan	Nissan	MURANO FWD	Station Wagons	21	28	24	3.5	6	Auto(AV-S7)	7	417	318	372	No
+2016	Nissan	Nissan	MURANO Hybrid AWD	Station Wagons	26	30	28	2.5	4	Auto(AV-S7)	7	343	299	323	No
+2016	Nissan	Nissan	MURANO Hybrid FWD	Station Wagons	28	31	29	2.5	4	Auto(AV-S7)	7	323	287	307	No
+2016	Toyota	Toyota	PRIUS v	Station Wagons	44	40	42	1.8	4	Auto(AV)	1	203	219	211	No
+2016	General Motors	Chevrolet	COLORADO 2WD	Pick-up Trucks	20	27	22	2.5	4	Auto(A6)	6	449	335	397	No
+2016	General Motors	Chevrolet	COLORADO 2WD	Pick-up Trucks	19	26	22	2.5	4	Manual(M6)	6	461	340	406	No
+2016	General Motors	Chevrolet	COLORADO 2WD	Pick-up Trucks	22	31	25	2.8	4	Auto(A6)	6	465	333	406	No
+2016	General Motors	Chevrolet	COLORADO 2WD	Pick-up Trucks	18	26	21	3.6	6	Auto(A6)	6	491	348	427	No
+2016	General Motors	GMC	CANYON 2WD	Pick-up Trucks	20	27	22	2.5	4	Auto(A6)	6	449	335	397	No
+2016	General Motors	GMC	CANYON 2WD	Pick-up Trucks	19	26	22	2.5	4	Manual(M6)	6	461	340	406	No
+2016	General Motors	GMC	CANYON 2WD	Pick-up Trucks	22	31	25	2.8	4	Auto(A6)	6	465	333	406	No
+2016	General Motors	GMC	CANYON 2WD	Pick-up Trucks	18	26	21	3.6	6	Auto(A6)	6	491	348	427	No
+2016	Nissan	Nissan	FRONTIER 2WD	Pick-up Trucks	17	23	19	2.5	4	Auto(A5)	5	516	396	462	No
+2016	Nissan	Nissan	FRONTIER 2WD	Pick-up Trucks	19	23	21	2.5	4	Manual(M5)	5	458	386	426	No
+2016	Nissan	Nissan	FRONTIER 2WD	Pick-up Trucks	16	22	18	4	6	Auto(A5)	5	557	395	484	No
+2016	Nissan	Nissan	FRONTIER 2WD	Pick-up Trucks	17	22	19	4	6	Manual(M6)	6	539	404	479	Yes
+2016	Toyota	Toyota	TACOMA 2WD	Pick-up Trucks	19	23	21	2.7	4	Auto(S6)	6	459	380	424	No
+2016	Toyota	Toyota	TACOMA 2WD	Pick-up Trucks	19	24	21	3.5	6	Auto(S6)	6	475	375	430	No
+2016	General Motors	Chevrolet	COLORADO 4WD	Pick-up Trucks	19	25	21	2.5	4	Auto(A6)	6	479	361	426	No
+2016	General Motors	Chevrolet	COLORADO 4WD	Pick-up Trucks	20	29	23	2.8	4	Auto(A6)	6	520	353	445	No
+2016	General Motors	Chevrolet	COLORADO 4WD	Pick-up Trucks	17	24	20	3.6	6	Auto(A6)	6	512	373	450	No
+2016	General Motors	GMC	CANYON 4WD	Pick-up Trucks	19	25	21	2.5	4	Auto(A6)	6	479	361	426	No
+2016	General Motors	GMC	CANYON 4WD	Pick-up Trucks	20	29	23	2.8	4	Auto(A6)	6	520	353	445	No
+2016	General Motors	GMC	CANYON 4WD	Pick-up Trucks	17	24	20	3.6	6	Auto(A6)	6	512	373	450	No
+2016	Nissan	Nissan	FRONTIER 4WD	Pick-up Trucks	15	21	17	4	6	Auto(A5)	5	588	425	515	No
+2016	Nissan	Nissan	FRONTIER 4WD	Pick-up Trucks	16	21	18	4	6	Manual(M6)	6	559	416	495	No
+2016	Toyota	Toyota	TACOMA 4WD	Pick-up Trucks	19	22	20	2.7	4	Auto(S6)	6	478	396	441	No
+2016	Toyota	Toyota	TACOMA 4WD	Pick-up Trucks	19	21	20	2.7	4	Manual(M5)	5	466	428	449	No
+2016	Toyota	Toyota	TACOMA 4WD	Pick-up Trucks	18	23	20	3.5	6	Auto(S6)	6	489	389	444	No
+2016	Toyota	Toyota	TACOMA 4WD	Pick-up Trucks	17	21	19	3.5	6	Manual(M6)	6	512	420	471	No
+2016	Toyota	Toyota	Tacoma 4WD Double Cab	Pick-up Trucks	17	20	18	3.5	6	Manual(M6)	6	518	441	483	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	18	24	20	4.3	6	Auto(A6)	6	507	378	449	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	16	23	19	5.3	8	Auto(A6)	6	553	392	480	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	16	23	19	5.3	8	Auto(A6)	6	553	391	480	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	18	24	20	5.3	8	Auto(A8)	8	505	375	446	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A8)	8	570	399	493	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD	Pick-up Trucks	15	21	17	6.2	8	Auto(A8)	8	608	429	527	No
+2016	Ford Motor Company	Ford	F150 2.7L 2WD GVWR>6649 LBS PAYLOAD PACKAGE	Pick-up Trucks	18	24	21	2.7	6	Auto(S6)	6	493	370	423	No
+2016	Ford Motor Company	Ford	F150 2WD	Pick-up Trucks	19	26	22	2.7	6	Auto(S6)	6	463	349	412	No
+2016	Ford Motor Company	Ford	F150 2WD	Pick-up Trucks	17	24	20	3.5	6	Auto(S6)	6	518	374	453	No
+2016	Ford Motor Company	Ford	F150 2WD FFV	Pick-up Trucks	18	25	20	3.5	6	Auto(A6)	6	496	362	436	No
+2016	Ford Motor Company	Ford	F150 2WD FFV	Pick-up Trucks	15	22	18	5	8	Auto(S6)	6	581	398	499	No
+2016	Ford Motor Company	Ford	F150 3.5L 2WD GVWR>7599 LBS PAYLOAD PACKAGE	Pick-up Trucks	16	22	18	3.5	6	Auto(S6)	6	555	403	493	No
+2016	Ford Motor Company	Ford	F150 5.0L 2WD FFV GVWR>7599 LBS PAYLOAD PACKAGE	Pick-up Trucks	14	20	16	5	8	Auto(S6)	6	633	445	555	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	18	24	20	4.3	6	Auto(A6)	6	507	378	449	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	16	23	19	5.3	8	Auto(A6)	6	553	392	480	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	16	23	19	5.3	8	Auto(A6)	6	551	390	479	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	18	24	20	5.3	8	Auto(A8)	8	505	375	446	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A8)	8	570	399	493	No
+2016	General Motors	GMC	C15 SIERRA 2WD	Pick-up Trucks	15	21	17	6.2	8	Auto(A8)	8	596	421	522	No
+2016	FCA US LLC	RAM	1500 4X2	Pick-up Trucks	20	28	23	3	6	Auto(A8)	8	500	365	439	No
+2016	FCA US LLC	RAM	1500 4X2	Pick-up Trucks	17	25	20	3.6	6	Auto(A8)	8	524	359	450	No
+2016	FCA US LLC	RAM	1500 4X2	Pick-up Trucks	14	20	16	5.7	8	Auto(A6)	6	646	454	560	No
+2016	FCA US LLC	RAM	1500 4X2	Pick-up Trucks	15	22	17	5.7	8	Auto(A8)	8	596	413	514	No
+2016	FCA US LLC	RAM	1500 HFE 4X2	Pick-up Trucks	21	29	24	3	6	Auto(A8)	8	488	348	425	No
+2016	FCA US LLC	RAM	1500 HFE 4X2	Pick-up Trucks	18	25	21	3.6	6	Auto(A8)	8	486	350	425	No
+2016	Roush	Roush Industries, Inc.	F150 Pickup 2WD	Pick-up Trucks	12	15	13	5	8	Auto(S6)	6	682	592	641	No
+2016	Toyota	TOYOTA	TUNDRA 2WD	Pick-up Trucks	15	19	16	4.6	8	Auto(S6)	6	597	465	537	No
+2016	Toyota	TOYOTA	TUNDRA 2WD	Pick-up Trucks	13	18	15	5.7	8	Auto(S6)	6	679	506	601	No
+2016	Toyota	TOYOTA	TUNDRA 2WD FFV	Pick-up Trucks	13	18	15	5.7	8	Auto(S6)	6	680	485	592	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	17	22	19	4.3	6	Auto(A6)	6	535	402	475	Yes
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A6)	6	570	406	525	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A6)	6	567	405	494	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	16	21	18	5.3	8	Auto(A8)	8	544	422	489	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	15	21	17	5.3	8	Auto(A8)	8	602	426	523	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD	Pick-up Trucks	15	21	17	6.2	8	Auto(A8)	8	602	421	521	No
+2016	Ford Motor Company	Ford	F150 2.7L 4WD GVWR>6799 LBS PAYLOAD PACKAGE	Pick-up Trucks	18	22	19	2.7	6	Auto(S6)	6	503	404	467	No
+2016	Ford Motor Company	Ford	F150 3.5L 4WD GVWR>7599 LBS PAYLOAD PACKAGE	Pick-up Trucks	15	20	17	3.5	6	Auto(S6)	6	593	444	523	No
+2016	Ford Motor Company	Ford	F150 4WD	Pick-up Trucks	18	23	20	2.7	6	Auto(S6)	6	502	392	453	No
+2016	Ford Motor Company	Ford	F150 4WD	Pick-up Trucks	16	22	18	3.5	6	Auto(S6)	6	553	404	486	No
+2016	Ford Motor Company	Ford	F150 4WD FFV	Pick-up Trucks	17	23	19	3.5	6	Auto(A6)	6	521	394	464	No
+2016	Ford Motor Company	Ford	F150 4WD FFV	Pick-up Trucks	15	21	17	5	8	Auto(S6)	6	601	425	522	No
+2016	Ford Motor Company	Ford	F150 5.0L 4WD FFV GVWR>7599 LBS PAYLOAD PACKAGE	Pick-up Trucks	14	19	16	5	8	Auto(S6)	6	633	467	555	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	17	22	19	4.3	6	Auto(A6)	6	535	403	476	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A6)	6	566	404	525	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	16	22	18	5.3	8	Auto(A6)	6	568	406	495	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	16	21	18	5.3	8	Auto(A8)	8	544	422	489	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	15	21	17	5.3	8	Auto(A8)	8	602	426	523	No
+2016	General Motors	GMC	K15 SIERRA 4WD	Pick-up Trucks	15	21	17	6.2	8	Auto(A8)	8	602	421	521	No
+2016	FCA US LLC	RAM	1500 4X4	Pick-up Trucks	19	27	22	3	6	Auto(A8)	8	522	382	459	No
+2016	FCA US LLC	RAM	1500 4X4	Pick-up Trucks	16	23	19	3.6	6	Auto(A8)	8	551	383	475	No
+2016	FCA US LLC	RAM	1500 4X4	Pick-up Trucks	13	19	15	5.7	8	Auto(A6)	6	667	482	584	No
+2016	FCA US LLC	RAM	1500 4X4	Pick-up Trucks	15	21	17	5.7	8	Auto(A8)	8	607	432	528	No
+2016	Roush	Roush Industries, Inc.	F150 Pickup 4WD	Pick-up Trucks	12	15	13	5	8	Auto(S6)	6	682	592	641	No
+2016	Toyota	TOYOTA	TUNDRA 4WD	Pick-up Trucks	14	18	16	4.6	8	Auto(S6)	6	632	493	570	Yes
+2016	Toyota	TOYOTA	TUNDRA 4WD	Pick-up Trucks	13	17	15	5.7	8	Auto(S6)	6	678	522	608	No
+2016	Toyota	TOYOTA	TUNDRA 4WD FFV	Pick-up Trucks	13	17	15	5.7	8	Auto(S6)	6	677	523	608	No
+2016	General Motors	Chevrolet	G2500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	11	16	13	6	8	Auto(A6)	6	830	564	710	No
+2016	General Motors	Chevrolet	G3500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	11	16	12	6	8	Auto(A6)	6	842	567	718	No
+2016	Ford Motor Company	Ford	Transit T150 Wagon	Vans, Passenger Type	15	19	16	3.5	6	Auto(S6)	6	610	479	551	No
+2016	Ford Motor Company	Ford	Transit T150 Wagon FFV	Vans, Passenger Type	14	18	16	3.7	6	Auto(S6)	6	634	497	572	No
+2016	General Motors	GMC	G2500 SAVANA 2WD PASS MDPV	Vans, Passenger Type	11	16	13	6	8	Auto(A6)	6	830	564	710	Yes
+2016	General Motors	GMC	G3500 SAVANA 2WD PASS MDPV	Vans, Passenger Type	11	16	12	6	8	Auto(A6)	6	841	566	717	No
+2016	General Motors	Cadillac	XTS HEARSE	Special Purpose Vehicle	15	21	17	3.6	6	Auto(S6)	6	607	427	526	No
+2016	General Motors	Cadillac	XTS LIMO	Special Purpose Vehicle	15	21	17	3.6	6	Auto(S6)	6	607	427	526	No
+2016	Nissan	Chevrolet	City Express Cargo Van	Special Purpose Vehicle	24	26	25	2	4	Auto(AV)	1	367	337	353	No
+2016	Ford Motor Company	Ford	Transit Connect Van 2WD	Special Purpose Vehicle	22	29	25	1.6	4	Auto(S6)	6	406	301	359	No
+2016	Ford Motor Company	Ford	Transit Connect Van 2WD	Special Purpose Vehicle	20	28	23	2.5	4	Auto(S6)	6	445	323	390	No
+2016	Ford Motor Company	Ford	TRANSIT CONNECT VAN FFV	Special Purpose Vehicle	20	28	23	2.5	4	Auto(S6)	6	445	323	390	No
+2016	Ford Motor Company	Ford	TRANSIT CONNECT WAGON FFV	Special Purpose Vehicle	19	27	22	2.5	4	Auto(S6)	6	467	330	405	No
+2016	Ford Motor Company	Ford	TRANSIT CONNECT WAGON FWD	Special Purpose Vehicle	22	29	25	1.6	4	Auto(S6)	6	408	303	361	No
+2016	Ford Motor Company	Ford	TRANSIT CONNECT WAGON FWD	Special Purpose Vehicle	19	27	22	2.5	4	Auto(S6)	6	467	330	405	No
+2016	Ford Motor Company	Ford	TRANSIT CONNECT WAGON LWB FFV	Special Purpose Vehicle	19	27	22	2.5	4	Auto(S6)	6	467	330	405	No
+2016	Ford Motor Company	Ford	Transit Connect Wagon LWB FWD	Special Purpose Vehicle	19	27	22	2.5	4	Auto(S6)	6	467	330	405	No
+2016	Ford Motor Company	Lincoln	MKT LIVERY FWD	Special Purpose Vehicle	18	25	21	2	4	Auto(S6)	6	494	355	423	No
+2016	Mercedes-Benz	Mercedes-Benz	Metris (Cargo Van)	Special Purpose Vehicle	21	24	22	2	4	Auto(A7)	7	422	364	396	No
+2016	Mercedes-Benz	Mercedes-Benz	Metris (Passenger Van)	Special Purpose Vehicle	20	23	22	2	4	Auto(A7)	7	436	386	414	No
+2016	Nissan	NISSAN	NV200 Cargo Van	Special Purpose Vehicle	24	26	25	2	4	Auto(AV)	1	367	337	353	No
+2016	Nissan	NISSAN	NV200 NYC Taxi	Special Purpose Vehicle	23	26	24	2	4	Auto(AV)	1	386	335	363	No
+2016	FCA US LLC	RAM	Promaster City	Special Purpose Vehicle	21	29	24	2.4	4	Auto(A9)	9	423	308	372	No
+2016	Ford Motor Company	Lincoln	MKT LIVERY AWD	Special Purpose Vehicle	16	23	18	3.7	6	Auto(A6)	6	555	380	493	No
+2016	General Motors	Chevrolet	C15 SILVERADO 2WD CAB CHASSIS	Special Purpose Vehicle	15	20	17	5.3	8	Auto(A6)	6	592	444	523	No
+2016	General Motors	Chevrolet	COLORADO CAB CHASSIS 2WD	Special Purpose Vehicle	15	17	16	3.6	6	Auto(A6)	6	579	525	555	No
+2016	General Motors	Chevrolet	K15 SILVERADO 4WD CAB CHASSIS	Special Purpose Vehicle	15	19	17	5.3	8	Auto(A6)	6	593	468	523	No
+2016	General Motors	GMC	C15 SIERRA 2WD CAB CHASSIS	Special Purpose Vehicle	15	20	17	5.3	8	Auto(A6)	6	592	444	523	No
+2016	General Motors	GMC	CANYON CAB CHASSIS 2WD	Special Purpose Vehicle	15	17	16	3.6	6	Auto(A6)	6	579	525	555	Yes
+2016	General Motors	GMC	K15 SIERRA 4WD CAB CHASSIS	Special Purpose Vehicle	15	19	17	5.3	8	Auto(A6)	6	593	468	523	No
+2016	FCA US LLC	Chrysler	Town & Country	Special Purpose Vehicle	17	25	20	3.6	6	Auto(A6)	6	518	354	444	No
+2016	FCA US LLC	Chrysler	Town & Country	Special Purpose Vehicle	17	25	20	3.6	6	Auto(A6)	6	518	354	444	No
+2016	FCA US LLC	Dodge	Grand Caravan	Special Purpose Vehicle	17	25	20	3.6	6	Auto(A6)	6	518	354	444	No
+2016	FCA US LLC	Dodge	Grand Caravan	Special Purpose Vehicle	17	25	20	3.6	6	Auto(A6)	6	518	354	444	No
+2016	Honda	Honda	ODYSSEY 2WD	Special Purpose Vehicle	19	28	22	3.5	6	Auto(A6)	6	468	321	402	No
+2016	Kia	Kia Motors Corporation	Sedona	Special Purpose Vehicle	18	24	20	3.3	6	Auto(S6)	6	504	368	442	No
+2016	Kia	Kia Motors Corporation	Sedona SX	Special Purpose Vehicle	18	25	21	3.3	6	Auto(S6)	6	492	360	432	No
+2016	Kia	Kia Motors Corporation	Sedona SXL	Special Purpose Vehicle	17	22	19	3.3	6	Auto(S6)	6	540	399	476	No
+2016	Nissan	Nissan	QUEST	Special Purpose Vehicle	20	27	23	3.5	6	Auto(AV)	1	451	326	395	No
+2016	Toyota	Toyota	SIENNA	Special Purpose Vehicle	18	25	21	3.5	6	Auto(S6)	6	490	356	430	No
+2016	Toyota	Toyota	SIENNA AWD	Special Purpose Vehicle	16	23	19	3.5	6	Auto(S6)	6	537	380	466	No
+2016	Honda	Acura	MDX 2WD	SUV	19	27	22	3.5	6	Auto(S9)	9	467	328	403	No
+2016	Honda	Acura	MDX 2WD	SUV	20	27	23	3.5	6	Auto(S9)	9	444	323	390	No
+2016	Honda	Acura	RDX 2WD	SUV	20	29	23	3.5	6	Auto(S6)	6	447	307	384	No
+2016	BMW	BMW	X3 sDrive 28i	SUV	21	28	24	2	4	Auto(S8)	8	419	315	372	No
+2016	General Motors	Buick	ENCORE	SUV	28	34	30	1.4	4	Auto(S6)	6	321	259	293	No
+2016	General Motors	Buick	ENCORE	SUV	25	33	28	1.4	4	Auto(S6)	6	355	269	317	No
+2016	General Motors	Chevrolet	EQUINOX FWD	SUV	22	32	26	2.4	4	Auto(A6)	6	398	278	344	No
+2016	General Motors	Chevrolet	EQUINOX FWD	SUV	22	32	26	2.4	4	Auto(A6)	6	398	278	344	No
+2016	General Motors	Chevrolet	EQUINOX FWD	SUV	17	24	20	3.6	6	Auto(A6)	6	531	370	459	No
+2016	General Motors	Chevrolet	TRAX	SUV	26	34	29	1.4	4	Auto(S6)	6	344	261	306	No
+2016	FCA US LLC	Dodge	Journey	SUV	19	26	21	2.4	4	Auto(A4)	4	479	346	419	No
+2016	FCA US LLC	Dodge	Journey	SUV	17	25	19	3.6	6	Auto(A6)	6	538	356	456	No
+2016	FCA US LLC	FIAT	500X	SUV	25	34	28	1.4	4	Manual(M6)	6	355	261	313	No
+2016	FCA US LLC	FIAT	500X	SUV	22	31	25	2.4	4	Auto(A9)	9	402	286	350	No
+2016	Ford Motor Company	Ford	EDGE FWD	SUV	20	30	24	2	4	Auto(S6)	6	434	295	371	No
+2016	Ford Motor Company	Ford	EDGE FWD	SUV	21	30	24	2	4	Auto(S6)	6	424	296	367	No
+2016	Ford Motor Company	Ford	EDGE FWD	SUV	18	26	21	3.5	6	Auto(S6)	6	506	340	431	No
+2016	Ford Motor Company	Ford	ESCAPE FWD	SUV	23	32	26	1.6	4	Auto(S6)	6	380	279	341	No
+2016	Ford Motor Company	Ford	ESCAPE FWD	SUV	22	30	25	2	4	Auto(S6)	6	412	301	362	No
+2016	Ford Motor Company	Ford	ESCAPE FWD	SUV	22	31	25	2.5	4	Auto(S6)	6	410	286	354	No
+2016	General Motors	GMC	TERRAIN FWD	SUV	22	32	26	2.4	4	Auto(A6)	6	398	278	344	No
+2016	General Motors	GMC	TERRAIN FWD	SUV	22	32	26	2.4	4	Auto(A6)	6	398	278	344	No
+2016	General Motors	GMC	TERRAIN FWD	SUV	17	24	20	3.6	6	Auto(A6)	6	531	370	459	Yes
+2016	Honda	Honda	CR-V 2WD	SUV	26	33	29	2.4	4	Auto(AV)	1	337	267	306	No
+2016	Honda	Honda	HR-V 2WD	SUV	28	35	31	1.8	4	Auto(AV)	1	311	253	285	No
+2016	Honda	Honda	HR-V 2WD	SUV	28	35	31	1.8	4	Auto(AV-S7)	7	311	253	285	No
+2016	Honda	Honda	HR-V 2WD	SUV	25	34	28	1.8	4	Manual(M6)	6	350	261	310	No
+2016	Honda	Honda	PILOT 2WD	SUV	19	27	22	3.5	6	Auto(A6)	6	466	326	403	No
+2016	Honda	Honda	PILOT 2WD	SUV	20	27	23	3.5	6	Auto(S9)	9	439	321	386	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe FWD	SUV	18	25	21	3.3	6	Auto(S6)	6	495	356	432	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Sport FWD	SUV	19	27	22	2	4	Auto(S6)	6	460	330	401	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Sport FWD	SUV	20	27	23	2.4	4	Auto(S6)	6	434	325	385	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Sport ULTIMATE FWD	SUV	19	26	22	2	4	Auto(S6)	6	463	341	408	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Ultimate FWD	SUV	17	23	20	3.3	6	Auto(S6)	6	518	384	457	No
+2016	Hyundai	Hyundai Motor Company	Tucson Eco FWD	SUV	26	33	29	1.6	4	Auto(AM7)	7	343	276	313	No
+2016	Hyundai	Hyundai Motor Company	Tucson FWD	SUV	25	30	27	1.6	4	Auto(AM7)	7	360	296	331	No
+2016	Hyundai	Hyundai Motor Company	Tucson FWD	SUV	23	31	26	2	4	Auto(S6)	6	381	288	339	No
+2016	Nissan	Infiniti	QX60 FWD	SUV	21	27	23	3.5	6	Auto(AV-S7)	7	431	329	385	No
+2016	Nissan	Infiniti	QX70 RWD	SUV	17	24	19	3.7	6	Auto(S7)	7	525	374	457	No
+2016	FCA US LLC	Jeep	Cherokee FWD	SUV	22	31	25	2.4	4	Auto(A9)	9	414	291	359	No
+2016	FCA US LLC	Jeep	Cherokee FWD	SUV	22	31	25	2.4	4	Auto(A9)	9	414	291	359	No
+2016	FCA US LLC	Jeep	Cherokee FWD	SUV	21	29	24	3.2	6	Auto(A9)	9	430	307	375	No
+2016	FCA US LLC	Jeep	Compass FWD	SUV	22	26	24	2	4	Auto(AV)	1	408	337	376	No
+2016	FCA US LLC	Jeep	Compass FWD	SUV	23	30	26	2	4	Manual(M5)	5	385	294	344	No
+2016	FCA US LLC	Jeep	Compass FWD	SUV	21	28	23	2.4	4	Auto(A6)	6	424	323	379	No
+2016	FCA US LLC	Jeep	Compass FWD	SUV	23	29	25	2.4	4	Manual(M5)	5	384	308	350	No
+2016	FCA US LLC	Jeep	Patriot FWD	SUV	22	26	24	2	4	Auto(AV)	1	408	337	376	No
+2016	FCA US LLC	Jeep	Patriot FWD	SUV	23	30	26	2	4	Manual(M5)	5	385	294	344	No
+2016	FCA US LLC	Jeep	Patriot FWD	SUV	21	28	23	2.4	4	Auto(A6)	6	424	323	379	No
+2016	FCA US LLC	Jeep	Patriot FWD	SUV	23	29	25	2.4	4	Manual(M5)	5	384	308	350	No
+2016	FCA US LLC	Jeep	Renegade 4x2	SUV	24	31	27	1.4	4	Manual(M6)	6	372	284	333	No
+2016	FCA US LLC	Jeep	Renegade 4x2	SUV	22	31	25	2.4	4	Auto(A9)	9	407	290	354	No
+2016	Kia	Kia Motors Corporation	Sorento FWD	SUV	20	27	23	2	4	Auto(S6)	6	448	328	394	No
+2016	Kia	Kia Motors Corporation	Sorento FWD	SUV	21	29	24	2.4	4	Auto(S6)	6	427	310	374	No
+2016	Kia	Kia Motors Corporation	Sorento FWD	SUV	18	26	21	3.3	6	Auto(S6)	6	505	351	435	No
+2016	Kia	Kia Motors Corporation	Sportage FWD	SUV	21	28	24	2.4	4	Auto(S6)	6	426	309	373	No
+2016	Kia	Kia Motors Corporation	Sportage SX FWD	SUV	20	26	22	2	4	Auto(S6)	6	454	346	405	No
+2016	Toyota	Lexus	NX 200t	SUV	22	28	25	2	4	Auto(S6)	6	395	311	357	No
+2016	Toyota	Lexus	NX 300h	SUV	35	31	33	2.5	4	Auto(AV-S6)	6	255	288	270	No
+2016	Toyota	Lexus	RX 350	SUV	20	28	23	3.5	6	Auto(S8)	8	444	321	389	No
+2016	Toyota	Lexus	RX 450h	SUV	31	30	30	3.5	6	Auto(AV-S6)	6	301	293	297	No
+2016	Ford Motor Company	Lincoln	MKC  FWD	SUV	20	29	23	2	4	Auto(S6)	6	445	307	387	No
+2016	Ford Motor Company	Lincoln	MKX FWD	SUV	17	26	21	2.7	6	Auto(S6)	6	508	342	434	No
+2016	Ford Motor Company	Lincoln	MKX FWD	SUV	17	26	20	3.7	6	Auto(S6)	6	512	346	437	No
+2016	MAZDA	Mazda	CX-5 2WD	SUV	26	35	29	2	4	Manual(M6)	6	339	256	302	No
+2016	MAZDA	Mazda	CX-5 2WD	SUV	26	33	29	2.5	4	Auto(S6)	6	338	268	307	No
+2016	MAZDA	Mazda	CX-9 2WD	SUV	22	28	25	2.5	4	Auto(S6)	6	400	313	360	No
+2016	Mercedes-Benz	Mercedes-Benz	GLC 300	SUV	22	28	24	2	4	Auto(A9)	9	406	312	364	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 2WD	SUV	25	31	27	2.4	4	Auto(AV-S6)	6	346	282	318	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	SUV	24	31	27	2	4	Auto(AV-S6)	6	358	284	325	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	SUV	23	29	25	2	4	Manual(M5)	5	382	299	345	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 2WD	SUV	23	28	25	2.4	4	Auto(AV-S6)	6	385	313	353	No
+2016	Nissan	NISSAN	PATHFINDER 2WD	SUV	20	27	23	3.5	6	Auto(AV)	1	436	330	388	No
+2016	Nissan	NISSAN	ROGUE FWD	SUV	26	33	28	2.5	4	Auto(AV)	1	346	268	318	No
+2016	Toyota	TOYOTA	HIGHLANDER	SUV	20	25	22	2.7	4	Auto(S6)	6	435	352	398	No
+2016	Toyota	TOYOTA	HIGHLANDER	SUV	19	25	21	3.5	6	Auto(S6)	6	479	356	424	No
+2016	Toyota	TOYOTA	RAV4	SUV	23	30	26	2.5	4	Auto(S6)	6	387	296	346	No
+2016	Toyota	TOYOTA	RAV4 LE/XLE	SUV	24	31	26	2.5	4	Auto(S6)	6	375	286	335	No
+2016	Volkswagen Group of	Volkswagen	Tiguan	SUV	21	26	23	2	4	Auto(S6)	6	431	344	392	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC60 FWD	SUV	23	31	26	2	4	Auto(S8)	8	390	287	344	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC60 FWD	SUV	22	29	24	2	4	Auto(S8)	8	410	301	361	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC70 FWD	SUV	23	31	26	2	4	Auto(S8)	8	390	287	344	No
+2016	Honda	Acura	MDX 4WD	SUV	19	26	22	3.5	6	Auto(S9)	9	467	339	409	No
+2016	Honda	Acura	MDX 4WD	SUV	18	26	21	3.5	6	Auto(S9)	9	475	337	412	No
+2016	Honda	Acura	RDX 4WD	SUV	19	28	22	3.5	6	Auto(S6)	6	466	320	400	No
+2016	Volkswagen Group of	Audi	Q5	SUV	20	28	23	2	4	Auto(S8)	8	452	322	393	No
+2016	Volkswagen Group of	Audi	Q5	SUV	24	31	27	3	6	Auto(S8)	8	430	328	385	No
+2016	Volkswagen Group of	Audi	Q5	SUV	18	26	21	3	6	Auto(S8)	8	496	347	429	No
+2016	Volkswagen Group of	Audi	Q5 Hybrid	SUV	24	30	26	2	4	Auto(S8)	8	369	298	337	No
+2016	Volkswagen Group of	Audi	SQ5	SUV	17	24	19	3	6	Auto(S8)	8	528	373	458	No
+2016	BMW	BMW	X3 xDrive28d	SUV	27	34	30	2	4	Auto(S8)	8	374	299	340	No
+2016	BMW	BMW	X3 xDrive28i	SUV	21	28	24	2	4	Auto(S8)	8	419	315	372	No
+2016	BMW	BMW	X3 xDrive35i	SUV	19	27	22	3	6	Auto(S8)	8	480	333	414	No
+2016	BMW	BMW	X4 M40i	SUV	18	25	21	3	6	Auto(S8)	8	487	355	428	No
+2016	BMW	BMW	X4 xDrive28i	SUV	20	28	23	2	4	Auto(S8)	8	443	319	387	No
+2016	BMW	BMW	X4 xDrive35i	SUV	19	27	22	3	6	Auto(S8)	8	480	333	414	No
+2016	General Motors	Buick	ENCORE AWD	SUV	26	32	29	1.4	4	Auto(S6)	6	334	280	310	No
+2016	General Motors	Buick	ENCORE AWD	SUV	23	30	26	1.4	4	Auto(S6)	6	386	295	341	No
+2016	General Motors	Buick	ENVISION AWD	SUV	20	26	22	2	4	Auto(A6)	6	440	333	392	No
+2016	General Motors	Chevrolet	EQUINOX AWD	SUV	20	29	23	2.4	4	Auto(A6)	6	435	310	379	No
+2016	General Motors	Chevrolet	EQUINOX AWD	SUV	20	29	23	2.4	4	Auto(A6)	6	435	310	379	No
+2016	General Motors	Chevrolet	EQUINOX AWD	SUV	16	23	18	3.6	6	Auto(A6)	6	564	382	482	No
+2016	General Motors	Chevrolet	TRAX AWD	SUV	24	31	27	1.4	4	Auto(S6)	6	367	284	330	No
+2016	FCA US LLC	Dodge	Journey AWD	SUV	16	24	19	3.6	6	Auto(A6)	6	548	374	470	No
+2016	FCA US LLC	FIAT	500X AWD	SUV	21	30	24	2.4	4	Auto(A9)	9	413	298	361	No
+2016	Ford Motor Company	Ford	EDGE AWD	SUV	20	28	23	2	4	Auto(S6)	6	444	316	386	No
+2016	Ford Motor Company	Ford	EDGE AWD	SUV	17	24	20	2.7	6	Auto(S6)	6	511	369	447	No
+2016	Ford Motor Company	Ford	EDGE AWD	SUV	17	25	20	3.5	6	Auto(S6)	6	517	362	447	No
+2016	Ford Motor Company	Ford	ESCAPE AWD	SUV	22	29	25	1.6	4	Auto(S6)	6	400	302	355	No
+2016	Ford Motor Company	Ford	ESCAPE AWD	SUV	21	28	23	2	4	Auto(S6)	6	429	317	387	Yes
+2016	General Motors	GMC	TERRAIN AWD	SUV	20	29	23	2.4	4	Auto(A6)	6	435	310	379	No
+2016	General Motors	GMC	TERRAIN AWD	SUV	16	23	18	3.6	6	Auto(A6)	6	564	382	482	No
+2016	Honda	Honda	CR-V 4WD	SUV	25	31	27	2.4	4	Auto(AV)	1	355	282	323	No
+2016	Honda	Honda	HR-V 4WD	SUV	27	32	29	1.8	4	Auto(AV)	1	334	278	309	No
+2016	Honda	Honda	HR-V 4WD	SUV	27	32	29	1.8	4	Auto(AV-S7)	7	334	278	309	No
+2016	Honda	Honda	PILOT 4WD	SUV	18	26	21	3.5	6	Auto(A6)	6	483	347	422	No
+2016	Honda	Honda	PILOT 4WD	SUV	19	26	22	3.5	6	Auto(S9)	9	463	333	405	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe AWD	SUV	18	24	20	3.3	6	Auto(S6)	6	504	376	446	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Sport AWD	SUV	18	24	21	2	4	Auto(S6)	6	481	362	427	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Sport AWD	SUV	19	25	21	2.4	4	Auto(S6)	6	466	349	413	No
+2016	Hyundai	Hyundai Motor Company	Santa Fe Ultimate AWD	SUV	17	22	19	3.3	6	Auto(S6)	6	531	408	476	No
+2016	Hyundai	Hyundai Motor Company	Tucson AWD	SUV	24	28	26	1.6	4	Auto(AM7)	7	377	322	352	No
+2016	Hyundai	Hyundai Motor Company	Tucson AWD	SUV	21	26	23	2	4	Auto(S6)	6	420	346	387	No
+2016	Hyundai	Hyundai Motor Company	Tucson Eco AWD	SUV	25	31	27	1.6	4	Auto(AM7)	7	360	294	330	No
+2016	Nissan	Infiniti	QX60 AWD	SUV	19	26	22	3.5	6	Auto(AV-S7)	7	468	342	404	No
+2016	Nissan	Infiniti	QX70 AWD	SUV	16	22	18	3.7	6	Auto(S7)	7	551	407	486	No
+2016	FCA US LLC	Jeep	Cherokee 4X4	SUV	21	28	24	2.4	4	Auto(A9)	9	426	315	376	No
+2016	FCA US LLC	Jeep	Cherokee 4X4	SUV	21	28	24	2.4	4	Auto(A9)	9	426	315	376	No
+2016	FCA US LLC	Jeep	Cherokee 4X4	SUV	20	28	23	3.2	6	Auto(A9)	9	439	321	385	No
+2016	FCA US LLC	Jeep	Cherokee 4x4 Active Drive II	SUV	21	27	23	2.4	4	Auto(A9)	9	429	327	383	No
+2016	FCA US LLC	Jeep	Cherokee 4x4 Active Drive II	SUV	19	26	22	3.2	6	Auto(A9)	9	473	338	412	No
+2016	FCA US LLC	Jeep	Cherokee Trailhawk 4X4	SUV	19	25	22	2.4	4	Auto(A9)	9	456	354	410	No
+2016	FCA US LLC	Jeep	Cherokee Trailhawk 4X4	SUV	19	26	22	3.2	6	Auto(A9)	9	462	340	407	No
+2016	FCA US LLC	Jeep	Compass 4X4	SUV	20	26	22	2.4	4	Auto(A6)	6	441	346	398	No
+2016	FCA US LLC	Jeep	Compass 4X4	SUV	20	23	21	2.4	4	Auto(AV)	1	441	387	416	No
+2016	FCA US LLC	Jeep	Compass 4X4	SUV	22	27	24	2.4	4	Manual(M5)	5	401	326	367	No
+2016	FCA US LLC	Jeep	Patriot 4X4	SUV	20	26	22	2.4	4	Auto(A6)	6	441	346	398	No
+2016	FCA US LLC	Jeep	Patriot 4X4	SUV	20	23	21	2.4	4	Auto(AV)	1	441	387	416	No
+2016	FCA US LLC	Jeep	Patriot 4X4	SUV	22	27	24	2.4	4	Manual(M5)	5	401	326	367	No
+2016	FCA US LLC	Jeep	Renegade 4x4	SUV	24	31	27	1.4	4	Manual(M6)	6	367	285	326	No
+2016	FCA US LLC	Jeep	Renegade 4x4	SUV	21	29	24	2.4	4	Auto(A9)	9	421	304	368	No
+2016	FCA US LLC	Jeep	Wrangler 4X4	SUV	17	21	18	3.6	6	Auto(A5)	5	532	420	482	No
+2016	FCA US LLC	Jeep	Wrangler 4X4	SUV	17	21	18	3.6	6	Manual(M6)	6	537	412	481	No
+2016	FCA US LLC	Jeep	Wrangler Unlimited 4X4	SUV	16	20	18	3.6	6	Auto(A5)	5	557	442	505	No
+2016	FCA US LLC	Jeep	Wrangler Unlimited 4X4	SUV	16	21	18	3.6	6	Manual(M6)	6	564	428	503	No
+2016	Kia	Kia Motors Corporation	Sorento AWD	SUV	19	25	22	2	4	Auto(S6)	6	468	353	416	No
+2016	Kia	Kia Motors Corporation	Sorento AWD	SUV	21	26	23	2.4	4	Auto(S6)	6	433	349	395	No
+2016	Kia	Kia Motors Corporation	Sorento AWD	SUV	17	23	19	3.3	6	Auto(S6)	6	532	384	465	Yes
+2016	Kia	Kia Motors Corporation	Sorento AWD FE	SUV	18	26	21	3.3	6	Auto(S6)	6	502	349	433	No
+2016	Kia	Kia Motors Corporation	Sportage AWD	SUV	19	26	22	2.4	4	Auto(S6)	6	451	335	399	No
+2016	Kia	Kia Motors Corporation	Sportage SX AWD	SUV	19	25	21	2	4	Auto(S6)	6	467	360	419	No
+2016	Jaguar Land Rover L	Land Rover	Discovery Sport	SUV	20	26	22	2	4	Auto(S9)	9	448	339	399	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover Evoque	SUV	21	30	24	2	4	Auto(S9)	9	427	299	369	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover Evoque Convertible	SUV	20	28	23	2	4	Auto(S9)	9	449	315	389	No
+2016	Toyota	Lexus	NX 200t AWD	SUV	22	28	24	2	4	Auto(S6)	6	399	314	368	No
+2016	Toyota	Lexus	NX 200t AWD F SPORT	SUV	22	27	24	2	4	Auto(S6)	6	406	330	372	No
+2016	Toyota	Lexus	NX 300h AWD	SUV	33	30	32	2.5	4	Auto(AV-S6)	6	265	290	276	No
+2016	Toyota	Lexus	RX 350 AWD	SUV	19	26	22	3.5	6	Auto(S8)	8	459	335	404	No
+2016	Ford Motor Company	Lincoln	MKC  AWD	SUV	19	26	22	2	4	Auto(S6)	6	468	342	404	No
+2016	Ford Motor Company	Lincoln	MKC  AWD	SUV	18	26	21	2.3	4	Auto(S6)	6	485	343	421	No
+2016	Ford Motor Company	Lincoln	MKX AWD	SUV	17	24	19	2.7	6	Auto(S6)	6	529	365	455	No
+2016	Ford Motor Company	Lincoln	MKX AWD	SUV	16	23	19	3.7	6	Auto(S6)	6	540	387	471	Yes
+2016	MAZDA	Mazda	CX-5 4WD	SUV	24	30	26	2.5	4	Auto(S6)	6	370	296	337	No
+2016	MAZDA	Mazda	CX-9 4WD	SUV	21	27	23	2.5	4	Auto(S6)	6	423	332	382	No
+2016	Mercedes-Benz	Mercedes-Benz	GLA 250 4MATIC	SUV	24	32	27	2	4	Auto(AM7)	7	368	278	327	No
+2016	Mercedes-Benz	Mercedes-Benz	GLA 250 4MATIC	SUV	24	32	27	2	4	Auto(AM7)	7	368	278	327	No
+2016	Mercedes-Benz	Mercedes-Benz	GLC 300 4MATIC	SUV	21	28	24	2	4	Auto(A9)	9	419	320	374	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 4WD	SUV	24	29	26	2.4	4	Auto(AV-S6)	6	357	296	330	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER 4WD	SUV	20	27	23	3	6	Auto(S6)	6	444	323	388	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 4WD	SUV	23	29	26	2	4	Auto(AV-S6)	6	373	299	340	No
+2016	Mitsubishi Motors Co	Mitsubishi Motors Corporation	OUTLANDER SPORT 4WD	SUV	22	27	24	2.4	4	Auto(AV-S6)	6	390	321	359	No
+2016	Nissan	NISSAN	PATHFINDER 4WD	SUV	19	26	22	3.5	6	Auto(AV)	1	467	342	404	No
+2016	Nissan	NISSAN	PATHFINDER 4WD PLATINUM	SUV	19	26	21	3.5	6	Auto(AV)	1	456	339	423	No
+2016	Nissan	NISSAN	ROGUE AWD	SUV	25	32	28	2.5	4	Auto(AV)	1	357	280	322	No
+2016	Porsche	Porsche	Macan S	SUV	17	23	19	3	6	Auto(AM-S7)	7	511	385	454	No
+2016	Porsche	Porsche	Macan Turbo	SUV	17	23	19	3.6	6	Auto(AM-S7)	7	529	381	462	No
+2016	Subaru	Subaru	CROSSTREK	SUV	26	34	29	2	4	Auto(AV-S6)	6	342	264	307	No
+2016	Subaru	Subaru	CROSSTREK	SUV	23	31	26	2	4	Manual(M5)	5	388	292	345	No
+2016	Subaru	Subaru	CROSSTREK HYBRID	SUV	30	34	31	2	4	Auto(AV-S6)	6	299	260	282	No
+2016	Subaru	Subaru	FORESTER	SUV	23	28	25	2	4	Auto(AV-S8)	8	384	323	357	No
+2016	Subaru	Subaru	FORESTER	SUV	24	32	27	2.5	4	Auto(AV)	1	365	283	328	No
+2016	Subaru	Subaru	FORESTER	SUV	22	29	25	2.5	4	Manual(M6)	6	404	310	362	No
+2016	Subaru	Subaru	OUTBACK	SUV	25	33	28	2.5	4	Auto(AV-S6)	6	353	269	315	No
+2016	Subaru	Subaru	OUTBACK	SUV	20	27	22	3.6	6	Auto(AV-S6)	6	453	326	396	No
+2016	Toyota	Toyota	RAV4 AWD	SUV	22	29	25	2.5	4	Auto(S6)	6	394	306	354	No
+2016	Toyota	Toyota	RAV4 HYBRID AWD	SUV	34	31	33	2.5	4	Auto(AV-S6)	6	257	287	270	No
+2016	Toyota	Toyota	RAV4 Limited AWD/SE AWD	SUV	22	29	25	2.5	4	Auto(S6)	6	401	309	360	No
+2016	Volkswagen Group of	Volkswagen	Tiguan 4Motion	SUV	20	26	23	2	4	Auto(S6)	6	435	344	394	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC60 AWD	SUV	19	27	22	2	4	Auto(S8)	8	457	330	400	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC60 AWD	SUV	19	26	22	2.5	5	Auto(S6)	6	464	338	407	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC60 AWD	SUV	17	23	20	3	6	Auto(S6)	6	505	371	445	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC70 AWD	SUV	19	26	22	2.5	5	Auto(S6)	6	464	338	407	No
+2016	BMW	BMW	X5 sDrive35i	SUV	18	25	21	3	6	Auto(S8)	8	482	357	425	No
+2016	BMW	BMW	X6 sDrive35i	SUV	18	25	21	3	6	Auto(S8)	8	482	357	425	No
+2016	General Motors	Buick	ENCLAVE FWD	SUV	15	22	18	3.6	6	Auto(A6)	6	596	400	508	No
+2016	General Motors	Cadillac	ESCALADE 2WD	SUV	15	22	17	6.2	8	Auto(A8)	8	596	408	511	No
+2016	General Motors	Cadillac	SRX	SUV	17	24	19	3.6	6	Auto(S6)	6	536	370	461	No
+2016	General Motors	Chevrolet	C1500 SUBURBAN 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	561	382	481	No
+2016	General Motors	Chevrolet	C1500 SUBURBAN 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	565	397	489	No
+2016	General Motors	Chevrolet	C1500 TAHOE 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	561	382	481	No
+2016	General Motors	Chevrolet	C1500 TAHOE 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	561	383	481	No
+2016	General Motors	Chevrolet	TRAVERSE FWD	SUV	15	22	18	3.6	6	Auto(A6)	6	596	400	508	No
+2016	FCA US LLC	Dodge	Durango RWD	SUV	19	27	22	3.6	6	Auto(A8)	8	475	335	412	No
+2016	FCA US LLC	Dodge	Durango RWD	SUV	14	22	17	5.7	8	Auto(A8)	8	631	397	526	No
+2016	Ford Motor Company	Ford	Expedition 2WD	SUV	16	22	18	3.5	6	Auto(S6)	6	564	403	491	No
+2016	Ford Motor Company	Ford	Expedition EL 2WD	SUV	15	21	17	3.5	6	Auto(S6)	6	605	433	527	No
+2016	Ford Motor Company	Ford	EXPLORER FFV 2WD	SUV	17	24	20	3.5	6	Auto(S6)	6	524	362	451	No
+2016	Ford Motor Company	Ford	EXPLORER FWD	SUV	19	28	22	2.3	4	Auto(S6)	6	478	322	408	No
+2016	Ford Motor Company	Ford	EXPLORER FWD	SUV	17	24	20	3.5	6	Auto(S6)	6	524	362	451	No
+2016	Ford Motor Company	Ford	Flex FWD	SUV	16	23	19	3.5	6	Auto(S6)	6	556	387	468	No
+2016	General Motors	GMC	ACADIA FWD	SUV	15	22	18	3.6	6	Auto(A6)	6	596	400	508	No
+2016	General Motors	GMC	C1500 YUKON 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	561	382	481	No
+2016	General Motors	GMC	C1500 YUKON 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	565	397	489	No
+2016	General Motors	GMC	C1500 YUKON 2WD	SUV	15	22	17	6.2	8	Auto(A8)	8	596	408	511	No
+2016	General Motors	GMC	C1500 YUKON XL 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	561	382	481	No
+2016	General Motors	GMC	C1500 YUKON XL 2WD	SUV	16	23	18	5.3	8	Auto(A6)	6	565	397	489	No
+2016	General Motors	GMC	C1500 YUKON XL 2WD	SUV	15	22	17	6.2	8	Auto(A8)	8	596	408	511	No
+2016	Nissan	Infiniti	QX60 Hybrid FWD	SUV	26	28	26	2.5	4	Auto(AV-S7)	7	342	318	342	No
+2016	Nissan	Infiniti	QX80 2WD	SUV	14	20	16	5.6	8	Auto(S7)	7	639	440	549	No
+2016	FCA US LLC	Jeep	Grand Cherokee 4X2	SUV	22	30	25	3	6	Auto(A8)	8	461	337	405	No
+2016	FCA US LLC	Jeep	Grand Cherokee 4X2	SUV	19	26	22	3.6	6	Auto(A8)	8	470	341	412	No
+2016	Ford Motor Company	Lincoln	MKT FWD	SUV	16	24	19	3.7	6	Auto(S6)	6	555	368	468	No
+2016	Ford Motor Company	Lincoln	Navigator 2WD	SUV	16	22	18	3.5	6	Auto(S6)	6	564	403	491	No
+2016	Ford Motor Company	Lincoln	Navigator L 2WD	SUV	15	20	17	3.5	6	Auto(S6)	6	602	451	534	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 350	SUV	18	24	20	3.5	6	Auto(A7)	7	491	377	440	No
+2016	Toyota	Toyota	4RUNNER 2WD	SUV	17	22	19	4	6	Auto(S5)	5	522	399	466	No
+2016	Toyota	Toyota	SEQUOIA 2WD	SUV	13	17	15	5.7	8	Auto(S6)	6	689	512	610	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC90 FWD	SUV	22	26	24	2	4	Auto(S8)	8	401	338	373	No
+2016	BMW	BMW	X5 M	SUV	14	19	16	4.4	8	Auto(S8)	8	627	458	551	No
+2016	BMW	BMW	X5 xDrive 35d	SUV	23	30	26	3	6	Auto(S8)	8	444	341	398	No
+2016	BMW	BMW	X5 xDrive35i	SUV	18	24	20	3	6	Auto(S8)	8	490	365	434	No
+2016	BMW	BMW	X5 xDrive50i	SUV	15	21	17	4.4	8	Auto(S8)	8	590	425	516	No
+2016	BMW	BMW	X6 M	SUV	14	19	16	4.4	8	Auto(S8)	8	627	458	551	No
+2016	BMW	BMW	X6 xDrive35i	SUV	18	24	20	3	6	Auto(S8)	8	490	365	434	No
+2016	BMW	BMW	X6 xDrive50i	SUV	15	21	17	4.4	8	Auto(S8)	8	590	425	516	No
+2016	General Motors	Buick	ENCLAVE AWD	SUV	15	22	17	3.6	6	Auto(A6)	6	609	410	519	No
+2016	General Motors	Cadillac	ESCALADE 4WD	SUV	15	21	17	6.2	8	Auto(A8)	8	608	429	527	No
+2016	General Motors	Cadillac	SRX AWD	SUV	16	23	18	3.6	6	Auto(S6)	6	556	391	482	No
+2016	General Motors	Chevrolet	K1500 SUBURBAN 4WD	SUV	15	22	18	5.3	8	Auto(A6)	6	575	406	499	No
+2016	General Motors	Chevrolet	K1500 SUBURBAN 4WD	SUV	15	22	18	5.3	8	Auto(A6)	6	575	406	499	No
+2016	General Motors	Chevrolet	K1500 TAHOE 4WD	SUV	16	22	18	5.3	8	Auto(A6)	6	573	407	498	No
+2016	General Motors	Chevrolet	K1500 TAHOE 4WD	SUV	16	22	18	5.3	8	Auto(A6)	6	573	407	498	No
+2016	General Motors	Chevrolet	TRAVERSE AWD	SUV	15	22	17	3.6	6	Auto(A6)	6	609	410	519	No
+2016	FCA US LLC	Dodge	Durango AWD	SUV	18	25	21	3.6	6	Auto(A8)	8	481	358	426	No
+2016	FCA US LLC	Dodge	Durango AWD	SUV	14	22	17	5.7	8	Auto(A8)	8	626	400	524	No
+2016	Ford Motor Company	Ford	Expedition 4WD	SUV	15	20	17	3.5	6	Auto(S6)	6	611	448	537	No
+2016	Ford Motor Company	Ford	Expedition EL 4WD	SUV	14	20	16	3.5	6	Auto(S6)	6	617	455	544	No
+2016	Ford Motor Company	Ford	EXPLORER AWD	SUV	18	26	21	2.3	4	Auto(S6)	6	494	345	427	No
+2016	Ford Motor Company	Ford	EXPLORER AWD	SUV	16	22	18	3.5	6	Auto(S6)	6	561	404	493	No
+2016	Ford Motor Company	Ford	EXPLORER AWD	SUV	16	23	19	3.5	6	Auto(S6)	6	542	392	475	No
+2016	Ford Motor Company	Ford	EXPLORER FFV AWD	SUV	16	23	19	3.5	6	Auto(S6)	6	542	392	475	No
+2016	Ford Motor Company	Ford	FLEX AWD	SUV	16	22	18	3.5	6	Auto(S6)	6	542	403	491	No
+2016	Ford Motor Company	Ford	FLEX AWD	SUV	15	21	17	3.5	6	Auto(S6)	6	592	423	523	No
+2016	General Motors	GMC	ACADIA AWD	SUV	15	22	17	3.6	6	Auto(A6)	6	609	410	519	No
+2016	General Motors	GMC	K1500 YUKON 4WD	SUV	16	22	18	5.3	8	Auto(A6)	6	573	407	498	No
+2016	General Motors	GMC	K1500 YUKON 4WD	SUV	16	22	18	5.3	8	Auto(A6)	6	573	407	498	No
+2016	General Motors	GMC	K1500 YUKON 4WD	SUV	15	21	17	6.2	8	Auto(A8)	8	602	421	521	No
+2016	General Motors	GMC	K1500 YUKON XL 4WD	SUV	15	22	18	5.3	8	Auto(A6)	6	575	406	499	No
+2016	General Motors	GMC	K1500 YUKON XL 4WD	SUV	15	22	18	5.3	8	Auto(A6)	6	575	406	499	No
+2016	General Motors	GMC	K1500 YUKON XL 4WD	SUV	14	20	16	6.2	8	Auto(A8)	8	616	440	537	No
+2016	Nissan	Infiniti	QX60 Hybrid AWD	SUV	25	28	26	2.5	4	Auto(AV-S7)	7	355	319	342	No
+2016	Nissan	Infiniti	QX80 4WD	SUV	13	19	15	5.6	8	Auto(S7)	7	662	462	593	No
+2016	FCA US LLC	Jeep	Grand Cherokee 4X4	SUV	21	28	24	3	6	Auto(A8)	8	484	363	429	No
+2016	FCA US LLC	Jeep	Grand Cherokee 4X4	SUV	18	25	21	3.6	6	Auto(A8)	8	481	358	426	No
+2016	FCA US LLC	Jeep	Grand Cherokee 4X4	SUV	14	22	17	5.7	8	Auto(A8)	8	636	409	534	No
+2016	FCA US LLC	Jeep	Grand Cherokee SRT8 4x4	SUV	13	19	15	6.4	8	Auto(A8)	8	694	475	595	No
+2016	Jaguar Land Rover L	Land Rover	LR4	SUV	15	19	16	3	6	Auto(S8)	8	610	456	540	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover	SUV	17	23	19	3	6	Auto(S8)	8	535	386	468	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover	SUV	14	19	16	5	8	Auto(S8)	8	653	474	572	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover LWB	SUV	17	23	19	3	6	Auto(S8)	8	535	386	468	Yes
+2016	Jaguar Land Rover L	Land Rover	Range Rover LWB	SUV	14	19	16	5	8	Auto(S8)	8	653	474	572	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover Sport	SUV	17	23	19	3	6	Auto(S8)	8	535	386	468	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover Sport	SUV	14	19	16	5	8	Auto(S8)	8	629	463	554	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover Sport TDV6	SUV	22	29	25	3	6	Auto(S8)	8	457	349	409	No
+2016	Jaguar Land Rover L	Land Rover	Range Rover TDV6	SUV	22	29	25	3	6	Auto(S8)	8	457	349	409	No
+2016	Toyota	Lexus	GX 460	SUV	15	20	17	4.6	8	Auto(S6)	6	585	436	518	No
+2016	Toyota	Lexus	LX 570	SUV	13	18	15	5.7	8	Auto(S8)	8	687	486	596	No
+2016	Toyota	Lexus	RX 450h AWD	SUV	30	28	30	3.5	6	Auto(AV-S6)	6	290	310	299	No
+2016	Ford Motor Company	Lincoln	MKT AWD	SUV	15	21	17	3.5	6	Auto(S6)	6	592	423	523	No
+2016	Ford Motor Company	Lincoln	Navigator 4WD	SUV	15	20	17	3.5	6	Auto(S6)	6	611	448	537	No
+2016	Ford Motor Company	Lincoln	Navigator L 4WD	SUV	15	19	16	3.5	6	Auto(S6)	6	609	467	545	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG G 63	SUV	12	14	13	5.5	8	Auto(A7)	7	754	624	696	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG G65	SUV	11	13	12	6	12	Auto(A7)	7	833	675	762	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GL 63	SUV	13	17	14	5.5	8	Auto(A7)	7	686	527	615	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GLE 63	SUV	13	17	15	5.5	8	Auto(A7)	7	681	525	611	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S	SUV	13	17	15	5.5	8	Auto(A7)	7	681	525	611	No
+2016	Mercedes-Benz	Mercedes-Benz	AMG GLE 63 S (coupe)	SUV	14	18	15	5.5	8	Auto(A7)	7	650	482	574	No
+2016	Mercedes-Benz	Mercedes-Benz	G 550	SUV	13	14	13	4	8	Auto(A7)	7	696	622	663	No
+2016	Mercedes-Benz	Mercedes-Benz	GL 350 BLUETEC 4MATIC	SUV	19	26	22	3	6	Auto(A7)	7	533	391	469	No
+2016	Mercedes-Benz	Mercedes-Benz	GL 450 4MATIC	SUV	17	21	19	3	6	Auto(A7)	7	526	423	480	No
+2016	Mercedes-Benz	Mercedes-Benz	GL 550 4MATIC	SUV	13	18	15	4.7	8	Auto(A7)	7	660	498	587	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 300 d 4MATIC	SUV	22	29	24	2.1	4	Auto(A7)	7	470	347	415	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 350 4MATIC	SUV	17	22	19	3.5	6	Auto(A7)	7	506	396	456	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 350 4MATIC	SUV	17	22	19	3.5	6	Auto(A7)	7	506	396	456	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 350 d 4MATIC	SUV	23	30	26	3	6	Auto(A9)	9	439	344	396	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 400 4MATIC	SUV	18	22	20	3	6	Auto(A7)	7	496	403	454	No
+2016	Mercedes-Benz	Mercedes-Benz	GLE 450 AMG (coupe)	SUV	17	23	20	3	6	Auto(A9)	9	511	384	454	No
+2016	Porsche	Porsche	Cayenne	SUV	19	24	21	3.6	6	Auto(S8)	8	486	365	432	No
+2016	Porsche	Porsche	Cayenne Diesel	SUV	20	29	23	3	6	Auto(S8)	8	507	348	435	No
+2016	Porsche	Porsche	Cayenne GTS	SUV	16	23	19	3.6	6	Auto(S8)	8	548	389	476	No
+2016	Porsche	Porsche	Cayenne S	SUV	17	24	20	3.6	6	Auto(S8)	8	525	363	452	No
+2016	Porsche	Porsche	Cayenne Turbo	SUV	14	21	17	4.8	8	Auto(S8)	8	629	425	537	No
+2016	Porsche	Porsche	Cayenne Turbo S	SUV	14	21	17	4.8	8	Auto(S8)	8	629	425	537	No
+2016	Toyota	Toyota	4RUNNER 4WD	SUV	17	21	18	4	6	Auto(S5)	5	531	414	478	No
+2016	Toyota	Toyota	4RUNNER 4WD	SUV	17	21	18	4	6	Auto(S5)	5	531	414	478	No
+2016	Toyota	Toyota	HIGHLANDER AWD	SUV	18	24	20	3.5	6	Auto(S6)	6	492	369	437	No
+2016	Toyota	Toyota	HIGHLANDER HYBRID AWD	SUV	27	28	28	3.5	6	Auto(AV-S6)	6	321	319	320	No
+2016	Toyota	Toyota	HIGHLANDER HYBRID AWD LE Plus	SUV	28	28	28	3.5	6	Auto(AV-S6)	6	314	312	313	No
+2016	Toyota	Toyota	LAND CRUISER WAGON 4WD	SUV	13	18	15	5.7	8	Auto(S8)	8	675	486	590	No
+2016	Toyota	Toyota	SEQUOIA 4WD	SUV	13	17	14	5.7	8	Auto(S6)	6	701	515	617	No
+2016	Toyota	Toyota	SEQUOIA 4WD FFV	SUV	13	17	14	5.7	8	Auto(S6)	6	697	510	612	No
+2016	Volkswagen Group of	Volkswagen	Touareg	SUV	21	29	24	3	6	Auto(S8)	8	502	356	437	No
+2016	Volkswagen Group of	Volkswagen	Touareg	SUV	17	23	19	3.6	6	Auto(S8)	8	520	391	462	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC90 AWD	SUV	20	25	22	2	4	Auto(S8)	8	430	355	397	No
+2016	Volvo	Volvo Cars Of North America, LLC	XC90 AWD	SUV	22	25	23	2	4	Auto(S8)	8	408	355	384	No
