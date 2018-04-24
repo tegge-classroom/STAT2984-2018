@@ -1,0 +1,4 @@
+Coefficients:
+Budget: 1.01
+Critic score: 0.70
+Intercept:-16.10
